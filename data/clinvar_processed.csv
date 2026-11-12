@@ -1,0 +1,1015 @@
+accession,variant_name,gene,wild_type,position,mutant,label,germline_classification
+VCV000043587,NM_000546.6(TP53):c.1040C>A (p.Ala347Asp),TP53,A,347,D,pathogenic,Pathogenic
+VCV002758378,NM_000546.6(TP53):c.1031T>G (p.Leu344Arg),TP53,L,344,R,pathogenic,Likely pathogenic
+VCV000012375,NM_000546.6(TP53):c.1031T>C (p.Leu344Pro),TP53,L,344,P,pathogenic,Likely pathogenic
+VCV000215996,NM_000546.6(TP53):c.1025G>C (p.Arg342Pro),TP53,R,342,P,pathogenic,Pathogenic
+VCV000177879,NM_000546.6(TP53):c.1010G>C (p.Arg337Pro),TP53,R,337,P,pathogenic,Likely pathogenic
+VCV000142828,NM_000546.6(TP53):c.1010G>T (p.Arg337Leu),TP53,R,337,L,pathogenic,Likely pathogenic
+VCV000012379,NM_000546.6(TP53):c.1010G>A (p.Arg337His),TP53,R,337,H,pathogenic,"Pathogenic/Likely pathogenic/Pathogenic, low penetrance"
+VCV001019612,NM_000546.6(TP53):c.1009C>A (p.Arg337Ser),TP53,R,337,S,pathogenic,Likely pathogenic
+VCV000237938,NM_000546.6(TP53):c.1009C>G (p.Arg337Gly),TP53,R,337,G,pathogenic,Likely pathogenic
+VCV000142536,NM_000546.6(TP53):c.1009C>T (p.Arg337Cys),TP53,R,337,C,pathogenic,Pathogenic
+VCV000428876,NM_000546.6(TP53):c.1000G>T (p.Gly334Trp),TP53,G,334,W,pathogenic,Likely pathogenic
+VCV001768732,NM_000546.6(TP53):c.995T>A (p.Ile332Asn),TP53,I,332,N,pathogenic,Likely pathogenic
+VCV002578514,NM_000546.6(TP53):c.977A>T (p.Glu326Val),TP53,E,326,V,pathogenic,Likely pathogenic
+VCV000100816,NM_000546.6(TP53):c.887A>G (p.His296Arg),TP53,H,296,R,pathogenic,Likely pathogenic
+VCV000376593,NM_000546.6(TP53):c.857A>C (p.Glu286Ala),TP53,E,286,A,pathogenic,Likely pathogenic
+VCV000376592,NM_000546.6(TP53):c.857A>T (p.Glu286Val),TP53,E,286,V,pathogenic,Pathogenic
+VCV000183752,NM_000546.6(TP53):c.856G>A (p.Glu286Lys),TP53,E,286,K,pathogenic,Pathogenic/Likely pathogenic
+VCV000012384,NM_000546.6(TP53):c.854A>T (p.Glu285Val),TP53,E,285,V,pathogenic,Pathogenic
+VCV000420133,NM_000546.6(TP53):c.853G>A (p.Glu285Lys),TP53,E,285,K,pathogenic,Pathogenic/Likely pathogenic
+VCV000486555,NM_000546.6(TP53):c.848G>C (p.Arg283Pro),TP53,R,283,P,pathogenic,Pathogenic
+VCV000376659,NM_000546.6(TP53):c.845G>C (p.Arg282Pro),TP53,R,282,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000140821,NM_000546.6(TP53):c.844C>G (p.Arg282Gly),TP53,R,282,G,pathogenic,Pathogenic
+VCV000012364,NM_000546.6(TP53):c.844C>T (p.Arg282Trp),TP53,R,282,W,pathogenic,Pathogenic/Likely pathogenic
+VCV000406568,NM_000546.6(TP53):c.843C>A (p.Asp281Glu),TP53,D,281,E,pathogenic,Pathogenic/Likely pathogenic
+VCV000376587,NM_000546.6(TP53):c.843C>G (p.Asp281Glu),TP53,D,281,E,pathogenic,Pathogenic/Likely pathogenic
+VCV000376589,NM_000546.6(TP53):c.842A>C (p.Asp281Ala),TP53,D,281,A,pathogenic,Pathogenic/Likely pathogenic
+VCV000182968,NM_000546.6(TP53):c.842A>T (p.Asp281Val),TP53,D,281,V,pathogenic,Pathogenic/Likely pathogenic
+VCV000141141,NM_000546.6(TP53):c.842A>G (p.Asp281Gly),TP53,D,281,G,pathogenic,Pathogenic
+VCV000376588,NM_000546.6(TP53):c.841G>C (p.Asp281His),TP53,D,281,H,pathogenic,Pathogenic/Likely pathogenic
+VCV000376586,NM_000546.6(TP53):c.841G>A (p.Asp281Asn),TP53,D,281,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000376585,NM_000546.6(TP53):c.841G>T (p.Asp281Tyr),TP53,D,281,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000988616,NM_000546.6(TP53):c.840A>T (p.Arg280Ser),TP53,R,280,S,pathogenic,Pathogenic
+VCV000634747,NM_000546.6(TP53):c.840A>C (p.Arg280Ser),TP53,R,280,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000012368,NM_000546.6(TP53):c.839G>C (p.Arg280Thr),TP53,R,280,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000419454,NM_000546.6(TP53):c.836G>A (p.Gly279Glu),TP53,G,279,E,pathogenic,Pathogenic
+VCV000376646,NM_000546.6(TP53):c.833C>A (p.Pro278His),TP53,P,278,H,pathogenic,Pathogenic
+VCV000232497,NM_000546.6(TP53):c.833C>T (p.Pro278Leu),TP53,P,278,L,pathogenic,Pathogenic
+VCV000376643,NM_000546.6(TP53):c.832C>A (p.Pro278Thr),TP53,P,278,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000376642,NM_000546.6(TP53):c.832C>T (p.Pro278Ser),TP53,P,278,S,pathogenic,Pathogenic/Likely pathogenic
+VCV002757236,NM_000546.6(TP53):c.829T>G (p.Cys277Gly),TP53,C,277,G,pathogenic,Likely pathogenic
+VCV000185319,NM_000546.6(TP53):c.827C>G (p.Ala276Gly),TP53,A,276,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000376582,NM_000546.6(TP53):c.824G>T (p.Cys275Phe),TP53,C,275,F,pathogenic,Pathogenic
+VCV000215997,NM_000546.6(TP53):c.824G>A (p.Cys275Tyr),TP53,C,275,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000376655,NM_000546.6(TP53):c.818G>T (p.Arg273Leu),TP53,R,273,L,pathogenic,Pathogenic
+VCV000231060,NM_000546.6(TP53):c.818G>C (p.Arg273Pro),TP53,R,273,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000012366,NM_000546.6(TP53):c.818G>A (p.Arg273His),TP53,R,273,H,pathogenic,Pathogenic
+VCV000634682,NM_000546.6(TP53):c.817C>G (p.Arg273Gly),TP53,R,273,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000376656,NM_000546.6(TP53):c.817C>A (p.Arg273Ser),TP53,R,273,S,pathogenic,Pathogenic
+VCV000043594,NM_000546.6(TP53):c.817C>T (p.Arg273Cys),TP53,R,273,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000574679,NM_000546.6(TP53):c.814G>C (p.Val272Leu),TP53,V,272,L,pathogenic,Pathogenic
+VCV000185814,NM_000546.6(TP53):c.814G>A (p.Val272Met),TP53,V,272,M,pathogenic,Pathogenic
+VCV000012358,NM_000546.6(TP53):c.814G>T (p.Val272Leu),TP53,V,272,L,pathogenic,Pathogenic/Likely pathogenic
+VCV003147994,NM_000546.6(TP53):c.812A>T (p.Glu271Val),TP53,E,271,V,pathogenic,Likely pathogenic
+VCV004880485,NM_000546.6(TP53):c.810T>G (p.Phe270Leu),TP53,F,270,L,pathogenic,Likely pathogenic
+VCV000634778,NM_000546.6(TP53):c.808T>C (p.Phe270Leu),TP53,F,270,L,pathogenic,Pathogenic/Likely pathogenic
+VCV000376598,NM_000546.6(TP53):c.808T>G (p.Phe270Val),TP53,F,270,V,pathogenic,Pathogenic
+VCV002575169,NM_000546.6(TP53):c.806G>T (p.Ser269Ile),TP53,S,269,I,pathogenic,Likely pathogenic
+VCV000428867,NM_000546.6(TP53):c.800G>C (p.Arg267Pro),TP53,R,267,P,pathogenic,Pathogenic
+VCV001761541,NM_000546.6(TP53):c.799C>G (p.Arg267Gly),TP53,R,267,G,pathogenic,Pathogenic
+VCV000141764,NM_000546.6(TP53):c.799C>T (p.Arg267Trp),TP53,R,267,W,pathogenic,Pathogenic/Likely pathogenic
+VCV000161516,NM_000546.6(TP53):c.797G>A (p.Gly266Glu),TP53,G,266,E,pathogenic,Pathogenic/Likely pathogenic
+VCV000458566,NM_000546.6(TP53):c.796G>A (p.Gly266Arg),TP53,G,266,R,pathogenic,Pathogenic
+VCV000376605,NM_000546.6(TP53):c.796G>C (p.Gly266Arg),TP53,G,266,R,pathogenic,Pathogenic
+VCV000953467,NM_000546.6(TP53):c.794T>A (p.Leu265Gln),TP53,L,265,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000245777,NM_000546.6(TP53):c.794T>C (p.Leu265Pro),TP53,L,265,P,pathogenic,Pathogenic/Likely pathogenic
+VCV002671888,NM_000546.6(TP53):c.776A>C (p.Asp259Ala),TP53,D,259,A,pathogenic,Pathogenic
+VCV000012348,NM_000546.6(TP53):c.772G>A (p.Glu258Lys),TP53,E,258,K,pathogenic,Pathogenic/Likely pathogenic
+VCV001759844,NM_000546.6(TP53):c.761T>C (p.Ile254Thr),TP53,I,254,T,pathogenic,Pathogenic
+VCV000856299,NM_000546.6(TP53):c.761T>A (p.Ile254Asn),TP53,I,254,N,pathogenic,Pathogenic
+VCV000827132,NM_000546.6(TP53):c.757A>G (p.Thr253Ala),TP53,T,253,A,pathogenic,Pathogenic/Likely pathogenic
+VCV001518844,NM_000546.6(TP53):c.751A>T (p.Ile251Phe),TP53,I,251,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000182937,NM_000546.6(TP53):c.751A>C (p.Ile251Leu),TP53,I,251,L,pathogenic,Pathogenic/Likely pathogenic
+VCV000420136,NM_000546.6(TP53):c.749C>T (p.Pro250Leu),TP53,P,250,L,pathogenic,Pathogenic/Likely pathogenic
+VCV000012352,NM_000546.6(TP53):c.747G>T (p.Arg249Ser),TP53,R,249,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000376015,NM_000546.6(TP53):c.746G>C (p.Arg249Thr),TP53,R,249,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000237954,NM_000546.6(TP53):c.743G>C (p.Arg248Pro),TP53,R,248,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000230253,NM_000546.6(TP53):c.743G>T (p.Arg248Leu),TP53,R,248,L,pathogenic,Pathogenic
+VCV000012356,NM_000546.6(TP53):c.743G>A (p.Arg248Gln),TP53,R,248,Q,pathogenic,Pathogenic
+VCV000376652,NM_000546.6(TP53):c.742C>G (p.Arg248Gly),TP53,R,248,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000012347,NM_000546.6(TP53):c.742C>T (p.Arg248Trp),TP53,R,248,W,pathogenic,Pathogenic
+VCV000184882,NM_000546.6(TP53):c.740A>T (p.Asn247Ile),TP53,N,247,I,pathogenic,Pathogenic
+VCV001758655,NM_000546.6(TP53):c.738G>C (p.Met246Ile),TP53,M,246,I,pathogenic,Likely pathogenic
+VCV000480961,NM_000546.6(TP53):c.738G>A (p.Met246Ile),TP53,M,246,I,pathogenic,Pathogenic/Likely pathogenic
+VCV000480764,NM_000546.6(TP53):c.737T>A (p.Met246Lys),TP53,M,246,K,pathogenic,Likely pathogenic
+VCV000100815,NM_000546.6(TP53):c.736A>G (p.Met246Val),TP53,M,246,V,pathogenic,Pathogenic/Likely pathogenic
+VCV000376603,NM_000546.6(TP53):c.734G>T (p.Gly245Val),TP53,G,245,V,pathogenic,Pathogenic
+VCV000012355,NM_000546.6(TP53):c.734G>A (p.Gly245Asp),TP53,G,245,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000012365,NM_000546.6(TP53):c.733G>A (p.Gly245Ser),TP53,G,245,S,pathogenic,Pathogenic
+VCV000012349,NM_000546.6(TP53):c.733G>T (p.Gly245Cys),TP53,G,245,C,pathogenic,Pathogenic
+VCV000458560,NM_000546.6(TP53):c.731G>C (p.Gly244Ala),TP53,G,244,A,pathogenic,Pathogenic/Likely pathogenic
+VCV000376601,NM_000546.6(TP53):c.731G>T (p.Gly244Val),TP53,G,244,V,pathogenic,Likely pathogenic
+VCV000372785,NM_000546.6(TP53):c.731G>A (p.Gly244Asp),TP53,G,244,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000376600,NM_000546.6(TP53):c.730G>A (p.Gly244Ser),TP53,G,244,S,pathogenic,Pathogenic
+VCV000376580,NM_000546.6(TP53):c.726C>G (p.Cys242Trp),TP53,C,242,W,pathogenic,Pathogenic
+VCV000012354,NM_000546.6(TP53):c.725G>A (p.Cys242Tyr),TP53,C,242,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000376663,NM_000546.6(TP53):c.722C>A (p.Ser241Tyr),TP53,S,241,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000177791,NM_000546.6(TP53):c.722C>G (p.Ser241Cys),TP53,S,241,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000012359,NM_000546.6(TP53):c.722C>T (p.Ser241Phe),TP53,S,241,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000959232,NM_000546.6(TP53):c.721T>A (p.Ser241Thr),TP53,S,241,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000376665,NM_000546.6(TP53):c.721T>G (p.Ser241Ala),TP53,S,241,A,pathogenic,Pathogenic/Likely pathogenic
+VCV002502882,NM_000546.6(TP53):c.719G>A (p.Ser240Asn),TP53,S,240,N,pathogenic,Pathogenic
+VCV003972460,NM_000546.6(TP53):c.718A>T (p.Ser240Cys),TP53,S,240,C,pathogenic,Likely pathogenic
+VCV000584921,NM_000546.6(TP53):c.718A>G (p.Ser240Gly),TP53,S,240,G,pathogenic,Pathogenic/Likely pathogenic
+VCV004189258,NM_000546.6(TP53):c.717C>A (p.Asn239Lys),TP53,N,239,K,pathogenic,Pathogenic
+VCV000376637,NM_000546.6(TP53):c.716A>G (p.Asn239Ser),TP53,N,239,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000161515,NM_000546.6(TP53):c.714T>G (p.Cys238Trp),TP53,C,238,W,pathogenic,Pathogenic/Likely pathogenic
+VCV000376575,NM_000546.6(TP53):c.713G>C (p.Cys238Ser),TP53,C,238,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000376574,NM_000546.6(TP53):c.713G>T (p.Cys238Phe),TP53,C,238,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000182935,NM_000546.6(TP53):c.713G>A (p.Cys238Tyr),TP53,C,238,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000376577,NM_000546.6(TP53):c.712T>G (p.Cys238Gly),TP53,C,238,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000376576,NM_000546.6(TP53):c.712T>C (p.Cys238Arg),TP53,C,238,R,pathogenic,Pathogenic/Likely pathogenic
+VCV001757269,NM_000546.6(TP53):c.711G>C (p.Met237Ile),TP53,M,237,I,pathogenic,Pathogenic/Likely pathogenic
+VCV000634770,NM_000546.6(TP53):c.711G>T (p.Met237Ile),TP53,M,237,I,pathogenic,Pathogenic/Likely pathogenic
+VCV000142714,NM_000546.6(TP53):c.711G>A (p.Met237Ile),TP53,M,237,I,pathogenic,Pathogenic
+VCV000376636,NM_000546.6(TP53):c.710T>A (p.Met237Lys),TP53,M,237,K,pathogenic,Pathogenic/Likely pathogenic
+VCV000376693,NM_000546.6(TP53):c.707A>G (p.Tyr236Cys),TP53,Y,236,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000216469,NM_000546.6(TP53):c.706T>C (p.Tyr236His),TP53,Y,236,H,pathogenic,Pathogenic/Likely pathogenic
+VCV000127820,NM_000546.6(TP53):c.701A>G (p.Tyr234Cys),TP53,Y,234,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000376692,NM_000546.6(TP53):c.700T>A (p.Tyr234Asn),TP53,Y,234,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000376691,NM_000546.6(TP53):c.700T>C (p.Tyr234His),TP53,Y,234,H,pathogenic,Pathogenic/Likely pathogenic
+VCV000219759,NM_000546.6(TP53):c.700T>G (p.Tyr234Asp),TP53,Y,234,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000850008,NM_000546.6(TP53):c.695T>A (p.Ile232Asn),TP53,I,232,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000634756,NM_000546.6(TP53):c.695T>G (p.Ile232Ser),TP53,I,232,S,pathogenic,Pathogenic
+VCV000141224,NM_000546.6(TP53):c.695T>C (p.Ile232Thr),TP53,I,232,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000127819,NM_000546.6(TP53):c.659A>G (p.Tyr220Cys),TP53,Y,220,C,pathogenic,Pathogenic
+VCV000012383,NM_000546.6(TP53):c.659A>C (p.Tyr220Ser),TP53,Y,220,S,pathogenic,Pathogenic
+VCV000376687,NM_000546.6(TP53):c.658T>C (p.Tyr220His),TP53,Y,220,H,pathogenic,Pathogenic/Likely pathogenic
+VCV001754112,NM_000546.6(TP53):c.653T>A (p.Val218Glu),TP53,V,218,E,pathogenic,Likely pathogenic
+VCV000182965,NM_000546.6(TP53):c.646G>A (p.Val216Met),TP53,V,216,M,pathogenic,Pathogenic/Likely pathogenic
+VCV000428895,NM_000546.6(TP53):c.643A>C (p.Ser215Arg),TP53,S,215,R,pathogenic,Likely pathogenic
+VCV000376616,NM_000546.6(TP53):c.641A>T (p.His214Leu),TP53,H,214,L,pathogenic,Likely pathogenic
+VCV000376615,NM_000546.6(TP53):c.641A>G (p.His214Arg),TP53,H,214,R,pathogenic,Pathogenic
+VCV000231214,NM_000546.6(TP53):c.638G>C (p.Arg213Pro),TP53,R,213,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000135359,NM_000546.6(TP53):c.638G>A (p.Arg213Gln),TP53,R,213,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000376681,NM_000546.6(TP53):c.614A>G (p.Tyr205Cys),TP53,Y,205,C,pathogenic,Pathogenic
+VCV000376686,NM_000546.6(TP53):c.613T>G (p.Tyr205Asp),TP53,Y,205,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000376685,NM_000546.6(TP53):c.613T>C (p.Tyr205His),TP53,Y,205,H,pathogenic,Pathogenic/Likely pathogenic
+VCV000451799,NM_000546.6(TP53):c.596G>T (p.Gly199Val),TP53,G,199,V,pathogenic,Likely pathogenic
+VCV000188060,NM_000546.6(TP53):c.589G>A (p.Val197Met),TP53,V,197,M,pathogenic,Likely pathogenic
+VCV000231165,NM_000546.6(TP53):c.587G>C (p.Arg196Pro),TP53,R,196,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000216077,NM_000546.6(TP53):c.584T>C (p.Ile195Thr),TP53,I,195,T,pathogenic,Pathogenic
+VCV000376634,NM_000546.6(TP53):c.581T>A (p.Leu194His),TP53,L,194,H,pathogenic,Pathogenic/Likely pathogenic
+VCV000376633,NM_000546.6(TP53):c.581T>G (p.Leu194Arg),TP53,L,194,R,pathogenic,Pathogenic
+VCV000127817,NM_000546.6(TP53):c.580C>T (p.Leu194Phe),TP53,L,194,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000376612,NM_000546.6(TP53):c.578A>C (p.His193Pro),TP53,H,193,P,pathogenic,Pathogenic
+VCV000184979,NM_000546.6(TP53):c.578A>G (p.His193Arg),TP53,H,193,R,pathogenic,Pathogenic/Likely pathogenic
+VCV003460301,NM_000546.6(TP53):c.577C>A (p.His193Asn),TP53,H,193,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000230256,NM_000546.6(TP53):c.577C>T (p.His193Tyr),TP53,H,193,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000418517,NM_000546.6(TP53):c.569C>T (p.Pro190Leu),TP53,P,190,L,pathogenic,Pathogenic
+VCV000825729,NM_000546.6(TP53):c.542G>C (p.Arg181Pro),TP53,R,181,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000142320,NM_000546.6(TP53):c.542G>A (p.Arg181His),TP53,R,181,H,pathogenic,Pathogenic/Likely pathogenic
+VCV000142624,NM_000546.6(TP53):c.541C>T (p.Arg181Cys),TP53,R,181,C,pathogenic,Likely pathogenic
+VCV000245711,NM_000546.6(TP53):c.538G>A (p.Glu180Lys),TP53,E,180,K,pathogenic,Likely pathogenic
+VCV000406578,NM_000546.6(TP53):c.537T>A (p.His179Gln),TP53,H,179,Q,pathogenic,Pathogenic
+VCV000376607,NM_000546.6(TP53):c.537T>G (p.His179Gln),TP53,H,179,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000376606,NM_000546.6(TP53):c.536A>G (p.His179Arg),TP53,H,179,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000376610,NM_000546.6(TP53):c.535C>G (p.His179Asp),TP53,H,179,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000127815,NM_000546.6(TP53):c.535C>T (p.His179Tyr),TP53,H,179,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000947223,NM_000546.6(TP53):c.534C>G (p.His178Gln),TP53,H,178,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000575702,NM_000546.6(TP53):c.534C>A (p.His178Gln),TP53,H,178,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000482223,NM_000546.6(TP53):c.532C>G (p.His178Asp),TP53,H,178,D,pathogenic,Pathogenic
+VCV000458547,NM_000546.6(TP53):c.530C>G (p.Pro177Arg),TP53,P,177,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000376569,NM_000546.6(TP53):c.527G>T (p.Cys176Phe),TP53,C,176,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000186451,NM_000546.6(TP53):c.527G>A (p.Cys176Tyr),TP53,C,176,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000182963,NM_000546.6(TP53):c.524G>T (p.Arg175Leu),TP53,R,175,L,pathogenic,Likely pathogenic
+VCV000012374,NM_000546.6(TP53):c.524G>A (p.Arg175His),TP53,R,175,H,pathogenic,Pathogenic
+VCV000376649,NM_000546.6(TP53):c.523C>G (p.Arg175Gly),TP53,R,175,G,pathogenic,Pathogenic
+VCV000376017,NM_000546.6(TP53):c.518T>C (p.Val173Ala),TP53,V,173,A,pathogenic,Pathogenic/Likely pathogenic
+VCV000376668,NM_000546.6(TP53):c.517G>T (p.Val173Leu),TP53,V,173,L,pathogenic,Pathogenic/Likely pathogenic
+VCV000233951,NM_000546.6(TP53):c.517G>A (p.Val173Met),TP53,V,173,M,pathogenic,Pathogenic
+VCV000428883,NM_000546.6(TP53):c.515T>G (p.Val172Gly),TP53,V,172,G,pathogenic,Pathogenic
+VCV002446885,NM_000546.6(TP53):c.513G>T (p.Glu171Asp),TP53,E,171,D,pathogenic,Pathogenic
+VCV001745525,NM_000546.6(TP53):c.512A>G (p.Glu171Gly),TP53,E,171,G,pathogenic,Pathogenic
+VCV003328154,NM_000546.6(TP53):c.503A>C (p.His168Pro),TP53,H,168,P,pathogenic,Likely pathogenic
+VCV001744933,NM_000546.6(TP53):c.503A>T (p.His168Leu),TP53,H,168,L,pathogenic,Pathogenic
+VCV002505496,NM_000546.6(TP53):c.494A>T (p.Gln165Leu),TP53,Q,165,L,pathogenic,Pathogenic
+VCV000246416,NM_000546.6(TP53):c.490A>G (p.Lys164Glu),TP53,K,164,E,pathogenic,Pathogenic
+VCV000127814,NM_000546.6(TP53):c.488A>G (p.Tyr163Cys),TP53,Y,163,C,pathogenic,Pathogenic
+VCV000376680,NM_000546.6(TP53):c.487T>C (p.Tyr163His),TP53,Y,163,H,pathogenic,Pathogenic
+VCV000161518,NM_000546.6(TP53):c.481G>A (p.Ala161Thr),TP53,A,161,T,pathogenic,Pathogenic/Likely pathogenic
+VCV001026335,NM_000546.6(TP53):c.476C>A (p.Ala159Asp),TP53,A,159,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000458545,NM_000546.6(TP53):c.476C>T (p.Ala159Val),TP53,A,159,V,pathogenic,Pathogenic/Likely pathogenic
+VCV000528248,NM_000546.6(TP53):c.473G>T (p.Arg158Leu),TP53,R,158,L,pathogenic,Pathogenic
+VCV000246118,NM_000546.6(TP53):c.473G>C (p.Arg158Pro),TP53,R,158,P,pathogenic,Pathogenic
+VCV000141963,NM_000546.6(TP53):c.473G>A (p.Arg158His),TP53,R,158,H,pathogenic,Pathogenic/Likely pathogenic
+VCV001067910,NM_000546.6(TP53):c.472C>A (p.Arg158Ser),TP53,R,158,S,pathogenic,Pathogenic
+VCV000856171,NM_000546.6(TP53):c.472C>G (p.Arg158Gly),TP53,R,158,G,pathogenic,Pathogenic
+VCV000915695,NM_000546.6(TP53):c.470T>G (p.Val157Gly),TP53,V,157,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000012353,NM_000546.6(TP53):c.469G>T (p.Val157Phe),TP53,V,157,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000634768,NM_000546.6(TP53):c.467G>C (p.Arg156Pro),TP53,R,156,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000406564,NM_000546.6(TP53):c.464C>A (p.Thr155Asn),TP53,T,155,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000824998,NM_000546.6(TP53):c.455C>G (p.Pro152Arg),TP53,P,152,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000142766,NM_000546.6(TP53):c.455C>T (p.Pro152Leu),TP53,P,152,L,pathogenic,Pathogenic
+VCV000376640,NM_000546.6(TP53):c.452C>G (p.Pro151Arg),TP53,P,151,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000376641,NM_000546.6(TP53):c.451C>G (p.Pro151Ala),TP53,P,151,A,pathogenic,Pathogenic
+VCV000012370,NM_000546.6(TP53):c.451C>T (p.Pro151Ser),TP53,P,151,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000012369,NM_000546.6(TP53):c.451C>A (p.Pro151Thr),TP53,P,151,T,pathogenic,Pathogenic/Likely pathogenic
+VCV003602769,NM_000546.6(TP53):c.440T>G (p.Val147Gly),TP53,V,147,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000804214,NM_000546.6(TP53):c.428T>C (p.Val143Ala),TP53,V,143,A,pathogenic,Pathogenic
+VCV000486556,NM_000546.6(TP53):c.428T>G (p.Val143Gly),TP53,V,143,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000142657,NM_000546.6(TP53):c.427G>A (p.Val143Met),TP53,V,143,M,pathogenic,Pathogenic/Likely pathogenic
+VCV000376564,NM_000546.6(TP53):c.423C>G (p.Cys141Trp),TP53,C,141,W,pathogenic,Pathogenic
+VCV000140801,NM_000546.6(TP53):c.422G>A (p.Cys141Tyr),TP53,C,141,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000184863,NM_000546.6(TP53):c.413C>T (p.Ala138Val),TP53,A,138,V,pathogenic,Likely pathogenic
+VCV000012376,NM_000546.6(TP53):c.412G>C (p.Ala138Pro),TP53,A,138,P,pathogenic,Likely pathogenic
+VCV003893309,NM_000546.6(TP53):c.404G>C (p.Cys135Ser),TP53,C,135,S,pathogenic,Likely pathogenic
+VCV000376559,NM_000546.6(TP53):c.404G>T (p.Cys135Phe),TP53,C,135,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000376563,NM_000546.6(TP53):c.403T>G (p.Cys135Gly),TP53,C,135,G,pathogenic,Pathogenic
+VCV000376560,NM_000546.6(TP53):c.403T>C (p.Cys135Arg),TP53,C,135,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000230477,NM_000546.6(TP53):c.401T>G (p.Phe134Cys),TP53,F,134,C,pathogenic,Likely pathogenic
+VCV000012357,NM_000546.6(TP53):c.398T>C (p.Met133Thr),TP53,M,133,T,pathogenic,Pathogenic
+VCV000634773,NM_000546.6(TP53):c.396G>T (p.Lys132Asn),TP53,K,132,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000376624,NM_000546.6(TP53):c.396G>C (p.Lys132Asn),TP53,K,132,N,pathogenic,Pathogenic
+VCV000376625,NM_000546.6(TP53):c.395A>G (p.Lys132Arg),TP53,K,132,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000428902,NM_000546.6(TP53):c.392A>T (p.Asn131Ile),TP53,N,131,I,pathogenic,Pathogenic/Likely pathogenic
+VCV004279056,NM_000546.6(TP53):c.391A>C (p.Asn131His),TP53,N,131,H,pathogenic,Likely pathogenic
+VCV000824351,NM_000546.6(TP53):c.389T>A (p.Leu130His),TP53,L,130,H,pathogenic,Pathogenic
+VCV000428873,NM_000546.6(TP53):c.389T>C (p.Leu130Pro),TP53,L,130,P,pathogenic,Pathogenic
+VCV000656751,NM_000546.6(TP53):c.380C>A (p.Ser127Tyr),TP53,S,127,Y,pathogenic,Pathogenic
+VCV000219532,NM_000546.6(TP53):c.380C>G (p.Ser127Cys),TP53,S,127,C,pathogenic,Likely pathogenic
+VCV000182928,NM_000546.6(TP53):c.380C>T (p.Ser127Phe),TP53,S,127,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000934410,NM_000546.6(TP53):c.379T>C (p.Ser127Pro),TP53,S,127,P,pathogenic,Likely pathogenic
+VCV000824232,NM_000546.6(TP53):c.379T>A (p.Ser127Thr),TP53,S,127,T,pathogenic,Likely pathogenic
+VCV000265333,NM_000546.6(TP53):c.376T>G (p.Tyr126Asp),TP53,Y,126,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000376667,NM_000546.6(TP53):c.374C>G (p.Thr125Arg),TP53,T,125,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000216465,NM_000546.6(TP53):c.374C>A (p.Thr125Lys),TP53,T,125,K,pathogenic,Pathogenic
+VCV004056245,NM_000546.6(TP53):c.370T>C (p.Cys124Arg),TP53,C,124,R,pathogenic,Likely pathogenic
+VCV002702402,NM_000546.6(TP53):c.339C>G (p.Phe113Leu),TP53,F,113,L,pathogenic,Pathogenic
+VCV000823709,NM_000546.6(TP53):c.338T>C (p.Phe113Ser),TP53,F,113,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000634690,NM_000546.6(TP53):c.338T>G (p.Phe113Cys),TP53,F,113,C,pathogenic,Pathogenic
+VCV003634432,NM_000546.6(TP53):c.337T>C (p.Phe113Leu),TP53,F,113,L,pathogenic,Pathogenic
+VCV001469551,NM_000546.6(TP53):c.337T>A (p.Phe113Ile),TP53,F,113,I,pathogenic,Likely pathogenic
+VCV000141302,NM_000546.6(TP53):c.337T>G (p.Phe113Val),TP53,F,113,V,pathogenic,Likely pathogenic
+VCV000376632,NM_000546.6(TP53):c.332T>A (p.Leu111Gln),TP53,L,111,Q,pathogenic,Pathogenic
+VCV000376631,NM_000546.6(TP53):c.332T>G (p.Leu111Arg),TP53,L,111,R,pathogenic,Pathogenic
+VCV000376630,NM_000546.6(TP53):c.332T>C (p.Leu111Pro),TP53,L,111,P,pathogenic,Pathogenic
+VCV000406597,NM_000546.6(TP53):c.329G>T (p.Arg110Leu),TP53,R,110,L,pathogenic,Pathogenic
+VCV000233627,NM_000546.6(TP53):c.329G>C (p.Arg110Pro),TP53,R,110,P,pathogenic,Pathogenic
+VCV000823452,NM_000546.6(TP53):c.328C>G (p.Arg110Gly),TP53,R,110,G,pathogenic,Likely pathogenic
+VCV000634784,NM_000546.6(TP53):c.326T>G (p.Phe109Cys),TP53,F,109,C,pathogenic,Likely pathogenic
+VCV002627017,NM_000546.6(TP53):c.325T>A (p.Phe109Ile),TP53,F,109,I,pathogenic,Likely pathogenic
+VCV000492752,NM_000546.6(TP53):c.318C>G (p.Ser106Arg),TP53,S,106,R,pathogenic,Pathogenic
+VCV000141114,NM_000546.6(TP53):c.314G>A (p.Gly105Asp),TP53,G,105,D,pathogenic,Likely pathogenic
+VCV000406574,NM_000546.6(TP53):c.313G>C (p.Gly105Arg),TP53,G,105,R,pathogenic,Pathogenic/Likely pathogenic
+VCV001741120,NM_000546.6(TP53):c.1177G>T (p.Asp393Tyr),TP53,D,393,Y,benign,Likely benign
+VCV004553123,NM_000546.6(TP53):c.1164A>C (p.Glu388Asp),TP53,E,388,D,benign,Likely benign
+VCV001737684,NM_000546.6(TP53):c.1164A>T (p.Glu388Asp),TP53,E,388,D,benign,Likely benign
+VCV000141425,NM_000546.6(TP53):c.1163A>C (p.Glu388Ala),TP53,E,388,A,benign,Benign
+VCV001737291,NM_000546.6(TP53):c.1162G>C (p.Glu388Gln),TP53,E,388,Q,benign,Likely benign
+VCV002585882,NM_000546.6(TP53):c.1159A>C (p.Thr387Pro),TP53,T,387,P,benign,Likely benign
+VCV001735082,NM_000546.6(TP53):c.1155C>A (p.Phe385Leu),TP53,F,385,L,benign,Likely benign
+VCV000485029,NM_000546.6(TP53):c.1153T>C (p.Phe385Leu),TP53,F,385,L,benign,Likely benign
+VCV000406575,NM_000546.6(TP53):c.1151T>C (p.Met384Thr),TP53,M,384,T,benign,Benign
+VCV000182939,NM_000546.6(TP53):c.1150A>G (p.Met384Val),TP53,M,384,V,benign,Likely benign
+VCV000246221,NM_000546.6(TP53):c.1136G>A (p.Arg379His),TP53,R,379,H,benign,Likely benign
+VCV000216463,NM_000546.6(TP53):c.1136G>T (p.Arg379Leu),TP53,R,379,L,benign,Likely benign
+VCV000186762,NM_000546.6(TP53):c.1135C>A (p.Arg379Ser),TP53,R,379,S,benign,Likely benign
+VCV003972449,NM_000546.6(TP53):c.1132T>A (p.Ser378Thr),TP53,S,378,T,benign,Likely benign
+VCV001798385,NM_000546.6(TP53):c.1123C>A (p.Gln375Lys),TP53,Q,375,K,benign,Likely benign
+VCV000230269,NM_000546.6(TP53):c.1120G>C (p.Gly374Arg),TP53,G,374,R,benign,Benign
+VCV004826639,NM_000546.6(TP53):c.1105C>A (p.Leu369Met),TP53,L,369,M,benign,Likely benign
+VCV000135360,NM_000546.6(TP53):c.1096T>G (p.Ser366Ala),TP53,S,366,A,benign,Benign
+VCV000080708,NM_000546.6(TP53):c.1093C>T (p.His365Tyr),TP53,H,365,Y,benign,Likely benign
+VCV000142003,NM_000546.6(TP53):c.1079G>C (p.Gly360Ala),TP53,G,360,A,benign,Benign
+VCV003460336,NM_000546.6(TP53):c.1067G>A (p.Gly356Glu),TP53,G,356,E,benign,Likely benign
+VCV000234059,NM_000546.6(TP53):c.1066G>C (p.Gly356Arg),TP53,G,356,R,benign,Likely benign
+VCV003328171,NM_000546.6(TP53):c.1061A>C (p.Gln354Pro),TP53,Q,354,P,benign,Likely benign
+VCV003232047,NM_000546.6(TP53):c.1061A>T (p.Gln354Leu),TP53,Q,354,L,benign,Benign
+VCV000231485,NM_000546.6(TP53):c.1060C>A (p.Gln354Lys),TP53,Q,354,K,benign,Benign
+VCV004865861,NM_000546.6(TP53):c.1058C>T (p.Ala353Val),TP53,A,353,V,benign,Likely benign
+VCV004189250,NM_000546.6(TP53):c.1049T>G (p.Leu350Arg),TP53,L,350,R,benign,Likely benign
+VCV001775423,NM_000546.6(TP53):c.1046A>G (p.Glu349Gly),TP53,E,349,G,benign,Likely benign
+VCV002683739,NM_000546.6(TP53):c.1040C>G (p.Ala347Gly),TP53,A,347,G,benign,Likely benign
+VCV003460327,NM_000546.6(TP53):c.1029G>T (p.Glu343Asp),TP53,E,343,D,benign,Benign
+VCV000233136,NM_000546.6(TP53):c.1025G>A (p.Arg342Gln),TP53,R,342,Q,benign,Likely benign
+VCV002585878,NM_000546.6(TP53):c.1023C>G (p.Phe341Leu),TP53,F,341,L,benign,Likely benign
+VCV003256325,NM_000546.6(TP53):c.1020G>C (p.Met340Ile),TP53,M,340,I,benign,Likely benign
+VCV001759327,NM_000546.6(TP53):c.1020G>T (p.Met340Ile),TP53,M,340,I,benign,Likely benign
+VCV004865879,NM_000546.6(TP53):c.1018A>T (p.Met340Leu),TP53,M,340,L,benign,Likely benign
+VCV004865872,NM_000546.6(TP53):c.1018A>G (p.Met340Val),TP53,M,340,V,benign,Likely benign
+VCV000141893,NM_000546.6(TP53):c.1015G>C (p.Glu339Gln),TP53,E,339,Q,benign,Likely benign
+VCV002450754,NM_000546.6(TP53):c.1006G>C (p.Glu336Gln),TP53,E,336,Q,benign,Likely benign
+VCV003328160,NM_000546.6(TP53):c.1004G>T (p.Arg335Leu),TP53,R,335,L,benign,Likely benign
+VCV000141159,NM_000546.6(TP53):c.1003C>T (p.Arg335Cys),TP53,R,335,C,benign,Likely benign
+VCV000142273,NM_000546.6(TP53):c.998G>A (p.Arg333His),TP53,R,333,H,benign,Benign
+VCV000184745,NM_000546.6(TP53):c.997C>T (p.Arg333Cys),TP53,R,333,C,benign,Likely benign
+VCV004189263,NM_000546.6(TP53):c.994A>C (p.Ile332Leu),TP53,I,332,L,benign,Likely benign
+VCV004865862,NM_000546.6(TP53):c.988C>A (p.Leu330Ile),TP53,L,330,I,benign,Likely benign
+VCV003972458,NM_000546.6(TP53):c.978A>C (p.Glu326Asp),TP53,E,326,D,benign,Likely benign
+VCV002450758,NM_000546.6(TP53):c.972T>A (p.Asp324Glu),TP53,D,324,E,benign,Likely benign
+VCV002578516,NM_000546.6(TP53):c.970G>A (p.Asp324Asn),TP53,D,324,N,benign,Benign
+VCV003328169,NM_000546.6(TP53):c.956A>C (p.Lys319Thr),TP53,K,319,T,benign,Likely benign
+VCV002575170,NM_000546.6(TP53):c.952C>T (p.Pro318Ser),TP53,P,318,S,benign,Benign
+VCV000231008,NM_000546.6(TP53):c.949C>A (p.Gln317Lys),TP53,Q,317,K,benign,Benign
+VCV000230382,NM_000546.6(TP53):c.946C>A (p.Pro316Thr),TP53,P,316,T,benign,Likely benign
+VCV000185212,NM_000546.6(TP53):c.943T>A (p.Ser315Thr),TP53,S,315,T,benign,Likely benign
+VCV002450750,NM_000546.6(TP53):c.938G>A (p.Ser313Asn),TP53,S,313,N,benign,Likely benign
+VCV001766672,NM_000546.6(TP53):c.935C>A (p.Thr312Asn),TP53,T,312,N,benign,Likely benign
+VCV000141102,NM_000546.6(TP53):c.935C>G (p.Thr312Ser),TP53,T,312,S,benign,Benign
+VCV000428879,NM_000546.6(TP53):c.930C>G (p.Asn310Lys),TP53,N,310,K,benign,Likely benign
+VCV001766454,NM_000546.6(TP53):c.929A>G (p.Asn310Ser),TP53,N,310,S,benign,Likely benign
+VCV000485027,NM_000546.6(TP53):c.920C>G (p.Ala307Gly),TP53,A,307,G,benign,Likely benign
+VCV000142332,NM_000546.6(TP53):c.907A>G (p.Ser303Gly),TP53,S,303,G,benign,Likely benign
+VCV003328162,NM_000546.6(TP53):c.905G>C (p.Gly302Ala),TP53,G,302,A,benign,Likely benign
+VCV001765377,NM_000546.6(TP53):c.899C>T (p.Pro300Leu),TP53,P,300,L,benign,Likely benign
+VCV004824211,NM_000546.6(TP53):c.895C>G (p.Leu299Val),TP53,L,299,V,benign,Likely benign
+VCV000141483,NM_000546.6(TP53):c.892G>A (p.Glu298Lys),TP53,E,298,K,benign,Benign
+VCV000132973,NM_000546.6(TP53):c.886C>T (p.His296Tyr),TP53,H,296,Y,benign,Likely benign
+VCV000428862,NM_000546.6(TP53):c.883C>T (p.Pro295Ser),TP53,P,295,S,benign,Likely benign
+VCV000127826,NM_000546.6(TP53):c.877G>T (p.Gly293Trp),TP53,G,293,W,benign,Likely benign
+VCV000406577,NM_000546.6(TP53):c.875A>G (p.Lys292Arg),TP53,K,292,R,benign,Likely benign
+VCV000127825,NM_000546.6(TP53):c.869G>A (p.Arg290His),TP53,R,290,H,benign,Benign
+VCV000216472,NM_000546.6(TP53):c.868C>T (p.Arg290Cys),TP53,R,290,C,benign,Benign
+VCV001172923,NM_000546.6(TP53):c.866T>C (p.Leu289Pro),TP53,L,289,P,benign,Likely benign
+VCV004757808,NM_000546.6(TP53):c.860A>G (p.Glu287Gly),TP53,E,287,G,benign,Likely benign
+VCV000216471,NM_000546.6(TP53):c.851C>T (p.Thr284Ile),TP53,T,284,I,benign,Likely benign
+VCV000127824,NM_000546.6(TP53):c.847C>T (p.Arg283Cys),TP53,R,283,C,benign,Likely benign
+VCV003460325,NM_000546.6(TP53):c.820G>A (p.Val274Ile),TP53,V,274,I,benign,Benign
+VCV002575177,NM_000546.6(TP53):c.805A>T (p.Ser269Cys),TP53,S,269,C,benign,Benign
+VCV000827313,NM_000546.6(TP53):c.788A>G (p.Asn263Ser),TP53,N,263,S,benign,Likely benign
+VCV000141228,NM_000546.6(TP53):c.784G>A (p.Gly262Ser),TP53,G,262,S,benign,Likely benign
+VCV000231033,NM_000546.6(TP53):c.779C>A (p.Ser260Tyr),TP53,S,260,Y,benign,Likely benign
+VCV000406605,NM_000546.6(TP53):c.760A>G (p.Ile254Val),TP53,I,254,V,benign,Likely benign
+VCV000127821,NM_000546.6(TP53):c.704A>G (p.Asn235Ser),TP53,N,235,S,benign,Benign
+VCV002450759,NM_000546.6(TP53):c.682G>T (p.Asp228Tyr),TP53,D,228,Y,benign,Likely benign
+VCV004828481,NM_000546.6(TP53):c.659A>T (p.Tyr220Phe),TP53,Y,220,F,benign,Likely benign
+VCV003460339,NM_000546.6(TP53):c.635T>C (p.Phe212Ser),TP53,F,212,S,benign,Likely benign
+VCV003232058,NM_000546.6(TP53):c.629A>G (p.Asn210Ser),TP53,N,210,S,benign,Likely benign
+VCV000962629,NM_000546.6(TP53):c.626G>A (p.Arg209Lys),TP53,R,209,K,benign,Likely benign
+VCV003809687,NM_000546.6(TP53):c.621T>G (p.Asp207Glu),TP53,D,207,E,benign,Likely benign
+VCV003460304,NM_000546.6(TP53):c.612G>C (p.Glu204Asp),TP53,E,204,D,benign,Likely benign
+VCV000988617,NM_000546.6(TP53):c.576G>C (p.Gln192His),TP53,Q,192,H,benign,Likely benign
+VCV000127816,NM_000546.6(TP53):c.572C>G (p.Pro191Arg),TP53,P,191,R,benign,Likely benign
+VCV000230006,NM_000546.6(TP53):c.558T>A (p.Asp186Glu),TP53,D,186,E,benign,Likely benign
+VCV000406601,NM_000546.6(TP53):c.556G>A (p.Asp186Asn),TP53,D,186,N,benign,Likely benign
+VCV001748280,NM_000546.6(TP53):c.555C>G (p.Ser185Arg),TP53,S,185,R,benign,Likely benign
+VCV000141359,NM_000546.6(TP53):c.554G>A (p.Ser185Asn),TP53,S,185,N,benign,Likely benign
+VCV003328150,NM_000546.6(TP53):c.547T>C (p.Ser183Pro),TP53,S,183,P,benign,Likely benign
+VCV000141566,NM_000546.6(TP53):c.511G>A (p.Glu171Lys),TP53,E,171,K,benign,Likely benign
+VCV000184014,NM_000546.6(TP53):c.509C>T (p.Thr170Met),TP53,T,170,M,benign,Likely benign
+VCV003809673,NM_000546.6(TP53):c.496T>A (p.Ser166Thr),TP53,S,166,T,benign,Likely benign
+VCV000230758,NM_000546.6(TP53):c.480G>A (p.Met160Ile),TP53,M,160,I,benign,Likely benign
+VCV000185404,NM_000546.6(TP53):c.469G>A (p.Val157Ile),TP53,V,157,I,benign,Likely benign
+VCV001735669,NM_000546.6(TP53):c.386C>A (p.Ala129Asp),TP53,A,129,D,benign,Benign
+VCV003809674,NM_000546.6(TP53):c.372C>G (p.Cys124Trp),TP53,C,124,W,benign,Likely benign
+VCV000182926,NM_000546.6(TP53):c.370T>A (p.Cys124Ser),TP53,C,124,S,benign,Likely benign
+VCV000141101,NM_000546.6(TP53):c.364G>A (p.Val122Met),TP53,V,122,M,benign,Likely benign
+VCV000419837,NM_000546.6(TP53):c.353C>T (p.Thr118Ile),TP53,T,118,I,benign,Likely benign
+VCV000182925,NM_000546.6(TP53):c.344A>G (p.His115Arg),TP53,H,115,R,benign,Likely benign
+VCV001730178,NM_000546.6(TP53):c.331C>G (p.Leu111Val),TP53,L,111,V,benign,Likely benign
+VCV000127808,NM_000546.6(TP53):c.329G>A (p.Arg110His),TP53,R,110,H,benign,Likely benign
+VCV000142431,NM_000546.6(TP53):c.322G>A (p.Gly108Ser),TP53,G,108,S,benign,Likely benign
+VCV000140786,NM_000546.5(TP53):c.319T>C (p.Tyr107His),TP53,Y,107,H,benign,Benign
+VCV004865871,NM_000546.6(TP53):c.284C>A (p.Ser95Tyr),TP53,S,95,Y,benign,Likely benign
+VCV004189261,NM_000546.6(TP53):c.283T>A (p.Ser95Thr),TP53,S,95,T,benign,Likely benign
+VCV001796426,NM_000546.6(TP53):c.281C>T (p.Ser94Leu),TP53,S,94,L,benign,Likely benign
+VCV003460308,NM_000546.6(TP53):c.280T>G (p.Ser94Ala),TP53,S,94,A,benign,Likely benign
+VCV004828470,NM_000546.6(TP53):c.274C>T (p.Pro92Ser),TP53,P,92,S,benign,Likely benign
+VCV000140833,NM_000546.6(TP53):c.250G>A (p.Ala84Thr),TP53,A,84,T,benign,Likely benign
+VCV000127805,NM_000546.6(TP53):c.248C>T (p.Ala83Val),TP53,A,83,V,benign,Benign/Likely benign
+VCV003972448,NM_000546.6(TP53):c.247G>C (p.Ala83Pro),TP53,A,83,P,benign,Likely benign
+VCV000182946,NM_000546.6(TP53):c.245C>T (p.Pro82Leu),TP53,P,82,L,benign,Likely benign
+VCV004865882,NM_000546.6(TP53):c.244C>A (p.Pro82Thr),TP53,P,82,T,benign,Likely benign
+VCV004189271,NM_000546.6(TP53):c.236C>T (p.Ala79Val),TP53,A,79,V,benign,Likely benign
+VCV003460333,NM_000546.6(TP53):c.227C>G (p.Ala76Gly),TP53,A,76,G,benign,Benign
+VCV004758197,NM_000546.6(TP53):c.223C>T (p.Pro75Ser),TP53,P,75,S,benign,Likely benign
+VCV000141547,NM_000546.6(TP53):c.221C>T (p.Ala74Val),TP53,A,74,V,benign,Likely benign
+VCV003460312,NM_000546.6(TP53):c.218T>A (p.Val73Glu),TP53,V,73,E,benign,Likely benign
+VCV000142386,NM_000546.6(TP53):c.217G>A (p.Val73Met),TP53,V,73,M,benign,Benign
+VCV000185120,NM_000546.6(TP53):c.215C>A (p.Pro72His),TP53,P,72,H,benign,Benign
+VCV000012351,NM_000546.6(TP53):c.215C>G (p.Pro72Arg),TP53,P,72,R,benign,Benign
+VCV000142854,NM_000546.6(TP53):c.214C>G (p.Pro72Ala),TP53,P,72,A,benign,Likely benign
+VCV001783578,NM_000546.6(TP53):c.196A>G (p.Met66Val),TP53,M,66,V,benign,Likely benign
+VCV000229693,NM_000546.6(TP53):c.188C>G (p.Ala63Gly),TP53,A,63,G,benign,Likely benign
+VCV000182922,NM_000546.6(TP53):c.188C>T (p.Ala63Val),TP53,A,63,V,benign,Benign
+VCV000231015,NM_000546.6(TP53):c.187G>A (p.Ala63Thr),TP53,A,63,T,benign,Likely benign
+VCV003809683,NM_000546.6(TP53):c.185A>G (p.Glu62Gly),TP53,E,62,G,benign,Likely benign
+VCV000820048,NM_000546.6(TP53):c.176G>A (p.Gly59Asp),TP53,G,59,D,benign,Likely benign
+VCV001778944,NM_000546.6(TP53):c.172C>G (p.Pro58Ala),TP53,P,58,A,benign,Likely benign
+VCV001778520,NM_000546.6(TP53):c.170A>T (p.Asp57Val),TP53,D,57,V,benign,Likely benign
+VCV004865867,NM_000546.6(TP53):c.153A>T (p.Glu51Asp),TP53,E,51,D,benign,Benign
+VCV000216464,NM_000546.6(TP53):c.149T>C (p.Ile50Thr),TP53,I,50,T,benign,Likely benign
+VCV000186363,NM_000546.6(TP53):c.145G>A (p.Asp49Asn),TP53,D,49,N,benign,Benign
+VCV000135948,NM_000546.6(TP53):c.145G>C (p.Asp49His),TP53,D,49,H,benign,Benign
+VCV000141056,NM_000546.6(TP53):c.144C>A (p.Asp48Glu),TP53,D,48,E,benign,Likely benign
+VCV002795844,NM_000546.6(TP53):c.143A>G (p.Asp48Gly),TP53,D,48,G,benign,Likely benign
+VCV000043588,NM_000546.6(TP53):c.139C>T (p.Pro47Ser),TP53,P,47,S,benign,Benign
+VCV000141597,NM_000546.6(TP53):c.107C>A (p.Pro36Gln),TP53,P,36,Q,benign,Benign
+VCV000142562,NM_000546.6(TP53):c.105G>C (p.Leu35Phe),TP53,L,35,F,benign,Likely benign
+VCV001767161,NM_000546.6(TP53):c.94C>G (p.Leu32Val),TP53,L,32,V,benign,Likely benign
+VCV000822586,NM_000546.6(TP53):c.85A>G (p.Asn29Asp),TP53,N,29,D,benign,Likely benign
+VCV003972456,NM_000546.6(TP53):c.62A>C (p.Asp21Ala),TP53,D,21,A,benign,Likely benign
+VCV004865868,NM_000546.6(TP53):c.43A>T (p.Ser15Cys),TP53,S,15,C,benign,Likely benign
+VCV000231387,NM_000546.6(TP53):c.28G>C (p.Val10Leu),TP53,V,10,L,benign,Likely benign
+VCV000127806,NM_000546.6(TP53):c.28G>A (p.Val10Ile),TP53,V,10,I,benign,Benign
+VCV001790705,NM_000546.6(TP53):c.23C>G (p.Pro8Arg),TP53,P,8,R,benign,Likely benign
+VCV000231868,NM_000546.6(TP53):c.23C>T (p.Pro8Leu),TP53,P,8,L,benign,Likely benign
+VCV000485049,NM_000546.6(TP53):c.21T>G (p.Asp7Glu),TP53,D,7,E,benign,Likely benign
+VCV000140782,NM_000546.6(TP53):c.21T>A (p.Asp7Glu),TP53,D,7,E,benign,Likely benign
+VCV002450740,NM_000546.6(TP53):c.11C>A (p.Pro4Gln),TP53,P,4,Q,benign,Likely benign
+VCV000237941,NM_000546.6(TP53):c.11C>T (p.Pro4Leu),TP53,P,4,L,benign,Likely benign
+VCV000055631,NM_007294.4(BRCA1):c.5561T>C (p.Leu1854Pro),BRCA1,L,1854,P,pathogenic,Likely pathogenic
+VCV000865016,NM_007294.4(BRCA1):c.5558A>C (p.Tyr1853Ser),BRCA1,Y,1853,S,pathogenic,Likely pathogenic
+VCV000055627,NM_007294.4(BRCA1):c.5558A>G (p.Tyr1853Cys),BRCA1,Y,1853,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000865014,NM_007294.4(BRCA1):c.5557T>C (p.Tyr1853His),BRCA1,Y,1853,H,pathogenic,Likely pathogenic
+VCV000433738,NM_007294.4(BRCA1):c.5557T>A (p.Tyr1853Asn),BRCA1,Y,1853,N,pathogenic,Likely pathogenic
+VCV000182082,NM_007294.4(BRCA1):c.5528C>A (p.Ala1843Glu),BRCA1,A,1843,E,pathogenic,Likely pathogenic
+VCV000055614,NM_007294.4(BRCA1):c.5527G>C (p.Ala1843Pro),BRCA1,A,1843,P,pathogenic,Likely pathogenic
+VCV000869006,NM_007294.4(BRCA1):c.5523T>G (p.Ser1841Arg),BRCA1,S,1841,R,pathogenic,Pathogenic
+VCV000869004,NM_007294.4(BRCA1):c.5522G>T (p.Ser1841Ile),BRCA1,S,1841,I,pathogenic,Likely pathogenic
+VCV000055613,NM_007294.4(BRCA1):c.5522G>A (p.Ser1841Asn),BRCA1,S,1841,N,pathogenic,Likely pathogenic
+VCV000037681,NM_007294.4(BRCA1):c.5521A>C (p.Ser1841Arg),BRCA1,S,1841,R,pathogenic,Likely pathogenic
+VCV000091656,NM_007294.4(BRCA1):c.5516T>C (p.Leu1839Ser),BRCA1,L,1839,S,pathogenic,Pathogenic
+VCV000254643,NM_007294.4(BRCA1):c.5513T>G (p.Val1838Gly),BRCA1,V,1838,G,pathogenic,Likely pathogenic
+VCV000055611,NM_007294.4(BRCA1):c.5513T>A (p.Val1838Glu),BRCA1,V,1838,E,pathogenic,Pathogenic
+VCV000421244,NM_007294.4(BRCA1):c.5511G>C (p.Trp1837Cys),BRCA1,W,1837,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000037680,NM_007294.4(BRCA1):c.5511G>T (p.Trp1837Cys),BRCA1,W,1837,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000853483,NM_007294.4(BRCA1):c.5509T>A (p.Trp1837Arg),BRCA1,W,1837,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000055607,NM_007294.4(BRCA1):c.5509T>G (p.Trp1837Gly),BRCA1,W,1837,G,pathogenic,Pathogenic
+VCV000037679,NM_007294.4(BRCA1):c.5509T>C (p.Trp1837Arg),BRCA1,W,1837,R,pathogenic,Pathogenic
+VCV002135737,NM_007294.4(BRCA1):c.5498T>G (p.Val1833Gly),BRCA1,V,1833,G,pathogenic,Likely pathogenic
+VCV000055598,NM_007294.4(BRCA1):c.5497G>A (p.Val1833Met),BRCA1,V,1833,M,pathogenic,Pathogenic/Likely pathogenic
+VCV000864931,NM_007294.4(BRCA1):c.5488G>T (p.Ala1830Ser),BRCA1,A,1830,S,pathogenic,Likely pathogenic
+VCV000868922,NM_007294.4(BRCA1):c.5467G>T (p.Ala1823Ser),BRCA1,A,1823,S,pathogenic,Pathogenic
+VCV000868921,NM_007294.4(BRCA1):c.5467G>C (p.Ala1823Pro),BRCA1,A,1823,P,pathogenic,Likely pathogenic
+VCV000055588,NM_007294.4(BRCA1):c.5467G>A (p.Ala1823Thr),BRCA1,A,1823,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000037672,NM_007294.4(BRCA1):c.5453A>G (p.Asp1818Gly),BRCA1,D,1818,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000037670,NM_007294.4(BRCA1):c.5434C>G (p.Pro1812Ala),BRCA1,P,1812,A,pathogenic,Pathogenic/Likely pathogenic
+VCV000868483,NM_007294.4(BRCA1):c.5432A>C (p.Gln1811Pro),BRCA1,Q,1811,P,pathogenic,Likely pathogenic
+VCV000055578,NM_007294.4(BRCA1):c.5432A>G (p.Gln1811Arg),BRCA1,Q,1811,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000825725,NM_007294.4(BRCA1):c.5426T>A (p.Val1809Asp),BRCA1,V,1809,D,pathogenic,Likely pathogenic
+VCV000055573,NM_007294.4(BRCA1):c.5425G>T (p.Val1809Phe),BRCA1,V,1809,F,pathogenic,Likely pathogenic
+VCV000037668,NM_007294.4(BRCA1):c.5408G>C (p.Gly1803Ala),BRCA1,G,1803,A,pathogenic,Pathogenic/Likely pathogenic
+VCV000868380,NM_007294.4(BRCA1):c.5366C>A (p.Ala1789Asp),BRCA1,A,1789,D,pathogenic,Likely pathogenic
+VCV000865385,NM_007294.4(BRCA1):c.5366C>T (p.Ala1789Val),BRCA1,A,1789,V,pathogenic,Likely pathogenic
+VCV000055552,NM_007294.4(BRCA1):c.5365G>A (p.Ala1789Thr),BRCA1,A,1789,T,pathogenic,Likely pathogenic
+VCV000531438,NM_007294.4(BRCA1):c.5363G>C (p.Gly1788Ala),BRCA1,G,1788,A,pathogenic,Likely pathogenic
+VCV000037660,NM_007294.4(BRCA1):c.5363G>T (p.Gly1788Val),BRCA1,G,1788,V,pathogenic,Pathogenic
+VCV000868033,NM_007294.4(BRCA1):c.5362G>A (p.Gly1788Ser),BRCA1,G,1788,S,pathogenic,Likely pathogenic
+VCV000055550,NM_007294.4(BRCA1):c.5362G>T (p.Gly1788Cys),BRCA1,G,1788,C,pathogenic,Likely pathogenic
+VCV000662455,NM_007294.4(BRCA1):c.5360G>A (p.Cys1787Tyr),BRCA1,C,1787,Y,pathogenic,Likely pathogenic
+VCV000091649,NM_007294.4(BRCA1):c.5357T>C (p.Leu1786Pro),BRCA1,L,1786,P,pathogenic,Pathogenic
+VCV000868026,NM_007294.4(BRCA1):c.5351T>A (p.Val1784Glu),BRCA1,V,1784,E,pathogenic,Likely pathogenic
+VCV000462670,NM_007294.4(BRCA1):c.5339T>A (p.Leu1780Gln),BRCA1,L,1780,Q,pathogenic,Likely pathogenic
+VCV000096949,NM_007294.4(BRCA1):c.5339T>G (p.Leu1780Arg),BRCA1,L,1780,R,pathogenic,Likely pathogenic
+VCV000055541,NM_007294.4(BRCA1):c.5339T>C (p.Leu1780Pro),BRCA1,L,1780,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000055532,NM_007294.4(BRCA1):c.5332G>T (p.Asp1778Tyr),BRCA1,D,1778,Y,pathogenic,Likely pathogenic
+VCV000055530,NM_007294.4(BRCA1):c.5332G>A (p.Asp1778Asn),BRCA1,D,1778,N,pathogenic,Pathogenic
+VCV000017695,NM_007294.4(BRCA1):c.5324T>A (p.Met1775Lys),BRCA1,M,1775,K,pathogenic,Pathogenic
+VCV000017694,NM_007294.4(BRCA1):c.5324T>G (p.Met1775Arg),BRCA1,M,1775,R,pathogenic,Pathogenic
+VCV000868306,NM_007294.4(BRCA1):c.5323A>G (p.Met1775Val),BRCA1,M,1775,V,pathogenic,Likely pathogenic
+VCV000417832,NM_007294.4(BRCA1):c.5309G>T (p.Gly1770Val),BRCA1,G,1770,V,pathogenic,Pathogenic
+VCV000867965,NM_007294.4(BRCA1):c.5297T>C (p.Ile1766Thr),BRCA1,I,1766,T,pathogenic,Likely pathogenic
+VCV000267594,NM_007294.4(BRCA1):c.5297T>A (p.Ile1766Asn),BRCA1,I,1766,N,pathogenic,Pathogenic/Likely pathogenic
+VCV000037656,NM_007294.4(BRCA1):c.5297T>G (p.Ile1766Ser),BRCA1,I,1766,S,pathogenic,Pathogenic
+VCV000055510,NM_007294.4(BRCA1):c.5291T>C (p.Leu1764Pro),BRCA1,L,1764,P,pathogenic,Pathogenic
+VCV000440481,NM_007294.4(BRCA1):c.5282T>G (p.Phe1761Cys),BRCA1,F,1761,C,pathogenic,Likely pathogenic
+VCV000055505,NM_007294.4(BRCA1):c.5282T>C (p.Phe1761Ser),BRCA1,F,1761,S,pathogenic,Pathogenic
+VCV000865211,NM_007294.4(BRCA1):c.5259A>C (p.Arg1753Ser),BRCA1,R,1753,S,pathogenic,Pathogenic
+VCV000409370,NM_007294.4(BRCA1):c.5259A>T (p.Arg1753Ser),BRCA1,R,1753,S,pathogenic,Likely pathogenic
+VCV000865210,NM_007294.4(BRCA1):c.5258G>T (p.Arg1753Ile),BRCA1,R,1753,I,pathogenic,Likely pathogenic
+VCV000055488,NM_007294.4(BRCA1):c.5258G>C (p.Arg1753Thr),BRCA1,R,1753,T,pathogenic,Likely pathogenic
+VCV000801086,NM_007294.4(BRCA1):c.5257A>G (p.Arg1753Gly),BRCA1,R,1753,G,pathogenic,Likely pathogenic
+VCV000868230,NM_007294.4(BRCA1):c.5255C>A (p.Ala1752Glu),BRCA1,A,1752,E,pathogenic,Pathogenic
+VCV000055483,NM_007294.4(BRCA1):c.5254G>C (p.Ala1752Pro),BRCA1,A,1752,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000055482,NM_007294.4(BRCA1):c.5252G>C (p.Arg1751Pro),BRCA1,R,1751,P,pathogenic,Likely pathogenic
+VCV000055479,NM_007294.4(BRCA1):c.5246C>G (p.Pro1749Arg),BRCA1,P,1749,R,pathogenic,Pathogenic
+VCV000055476,NM_007294.4(BRCA1):c.5243G>A (p.Gly1748Asp),BRCA1,G,1748,D,pathogenic,Pathogenic/Likely pathogenic
+VCV000240819,NM_007294.4(BRCA1):c.5242G>C (p.Gly1748Arg),BRCA1,G,1748,R,pathogenic,Likely pathogenic
+VCV000037650,NM_007294.4(BRCA1):c.5242G>T (p.Gly1748Cys),BRCA1,G,1748,C,pathogenic,Likely pathogenic
+VCV000531399,NM_007294.4(BRCA1):c.5236C>G (p.His1746Asp),BRCA1,H,1746,D,pathogenic,Likely pathogenic
+VCV000867253,NM_007294.4(BRCA1):c.5228G>A (p.Gly1743Glu),BRCA1,G,1743,E,pathogenic,Likely pathogenic
+VCV000055467,NM_007294.4(BRCA1):c.5217T>G (p.Asp1739Glu),BRCA1,D,1739,E,pathogenic,Likely pathogenic
+VCV000055466,NM_007294.4(BRCA1):c.5216A>T (p.Asp1739Val),BRCA1,D,1739,V,pathogenic,Pathogenic/Likely pathogenic
+VCV000055465,NM_007294.4(BRCA1):c.5216A>G (p.Asp1739Gly),BRCA1,D,1739,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000481487,NM_007294.4(BRCA1):c.5215G>C (p.Asp1739His),BRCA1,D,1739,H,pathogenic,Likely pathogenic
+VCV000055464,NM_007294.4(BRCA1):c.5215G>T (p.Asp1739Tyr),BRCA1,D,1739,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000845528,NM_007294.4(BRCA1):c.5213G>T (p.Gly1738Val),BRCA1,G,1738,V,pathogenic,Pathogenic
+VCV000055462,NM_007294.4(BRCA1):c.5213G>A (p.Gly1738Glu),BRCA1,G,1738,E,pathogenic,Pathogenic/Likely pathogenic
+VCV000865165,NM_007294.4(BRCA1):c.5212G>C (p.Gly1738Arg),BRCA1,G,1738,R,pathogenic,Pathogenic
+VCV000055461,NM_007294.4(BRCA1):c.5212G>A (p.Gly1738Arg),BRCA1,G,1738,R,pathogenic,Pathogenic
+VCV000055456,NM_007294.4(BRCA1):c.5207T>G (p.Val1736Gly),BRCA1,V,1736,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000037648,NM_007294.4(BRCA1):c.5207T>C (p.Val1736Ala),BRCA1,V,1736,A,pathogenic,Pathogenic
+VCV000867843,NM_007294.4(BRCA1):c.5206G>T (p.Val1736Phe),BRCA1,V,1736,F,pathogenic,Likely pathogenic
+VCV000225711,NM_007294.4(BRCA1):c.5202T>G (p.Phe1734Leu),BRCA1,F,1734,L,pathogenic,Likely pathogenic
+VCV000055454,NM_007294.4(BRCA1):c.5201T>C (p.Phe1734Ser),BRCA1,F,1734,S,pathogenic,Pathogenic
+VCV000232047,NM_007294.4(BRCA1):c.5200T>A (p.Phe1734Ile),BRCA1,F,1734,I,pathogenic,Likely pathogenic
+VCV000125791,NM_007294.4(BRCA1):c.5164T>C (p.Ser1722Pro),BRCA1,S,1722,P,pathogenic,Likely pathogenic
+VCV000482950,NM_007294.4(BRCA1):c.5156T>G (p.Val1719Gly),BRCA1,V,1719,G,pathogenic,Likely pathogenic
+VCV000865068,NM_007294.4(BRCA1):c.5154G>C (p.Trp1718Cys),BRCA1,W,1718,C,pathogenic,Pathogenic
+VCV000055435,NM_007294.4(BRCA1):c.5154G>T (p.Trp1718Cys),BRCA1,W,1718,C,pathogenic,Pathogenic/Likely pathogenic
+VCV000627968,NM_007294.4(BRCA1):c.5152T>G (p.Trp1718Gly),BRCA1,W,1718,G,pathogenic,Likely pathogenic
+VCV000055418,NM_007294.4(BRCA1):c.5145C>G (p.Ser1715Arg),BRCA1,S,1715,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000055417,NM_007294.4(BRCA1):c.5145C>A (p.Ser1715Arg),BRCA1,S,1715,R,pathogenic,Likely pathogenic
+VCV000055416,NM_007294.4(BRCA1):c.5144G>A (p.Ser1715Asn),BRCA1,S,1715,N,pathogenic,Pathogenic
+VCV000055415,NM_007294.4(BRCA1):c.5143A>T (p.Ser1715Cys),BRCA1,S,1715,C,pathogenic,Likely pathogenic
+VCV000055414,NM_007294.4(BRCA1):c.5143A>C (p.Ser1715Arg),BRCA1,S,1715,R,pathogenic,Pathogenic
+VCV000055413,NM_007294.4(BRCA1):c.5141T>G (p.Val1714Gly),BRCA1,V,1714,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000631061,NM_007294.4(BRCA1):c.5140G>T (p.Val1714Phe),BRCA1,V,1714,F,pathogenic,Likely pathogenic
+VCV000868702,NM_007294.4(BRCA1):c.5138T>G (p.Val1713Gly),BRCA1,V,1713,G,pathogenic,Pathogenic
+VCV000055412,NM_007294.4(BRCA1):c.5138T>C (p.Val1713Ala),BRCA1,V,1713,A,pathogenic,Likely pathogenic
+VCV000868700,NM_007294.4(BRCA1):c.5137G>T (p.Val1713Leu),BRCA1,V,1713,L,pathogenic,Likely pathogenic
+VCV000867686,NM_007294.4(BRCA1):c.5134T>G (p.Trp1712Gly),BRCA1,W,1712,G,pathogenic,Likely pathogenic
+VCV000864993,NM_007294.4(BRCA1):c.5131A>G (p.Lys1711Glu),BRCA1,K,1711,E,pathogenic,Likely pathogenic
+VCV000055407,NM_007294.4(BRCA1):c.5123C>A (p.Ala1708Glu),BRCA1,A,1708,E,pathogenic,Pathogenic
+VCV000868673,NM_007294.4(BRCA1):c.5117G>T (p.Gly1706Val),BRCA1,G,1706,V,pathogenic,Likely pathogenic
+VCV000037638,NM_007294.4(BRCA1):c.5117G>A (p.Gly1706Glu),BRCA1,G,1706,E,pathogenic,Pathogenic
+VCV000267221,NM_007294.4(BRCA1):c.5116G>A (p.Gly1706Arg),BRCA1,G,1706,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000267219,NM_007294.4(BRCA1):c.5116G>C (p.Gly1706Arg),BRCA1,G,1706,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000037637,NM_007294.4(BRCA1):c.5114T>C (p.Leu1705Pro),BRCA1,L,1705,P,pathogenic,Pathogenic/Likely pathogenic
+VCV000232915,NM_007294.4(BRCA1):c.5108A>G (p.Tyr1703Cys),BRCA1,Y,1703,C,pathogenic,Likely pathogenic
+VCV000252884,NM_007294.4(BRCA1):c.5107T>G (p.Tyr1703Asp),BRCA1,Y,1703,D,pathogenic,Likely pathogenic
+VCV000868654,NM_007294.4(BRCA1):c.5106A>T (p.Lys1702Asn),BRCA1,K,1702,N,pathogenic,Likely pathogenic
+VCV000867649,NM_007294.4(BRCA1):c.5104A>C (p.Lys1702Gln),BRCA1,K,1702,Q,pathogenic,Likely pathogenic
+VCV000055399,NM_007294.4(BRCA1):c.5098A>G (p.Thr1700Ala),BRCA1,T,1700,A,pathogenic,Likely pathogenic
+VCV000055398,NM_007294.4(BRCA1):c.5096G>T (p.Arg1699Leu),BRCA1,R,1699,L,pathogenic,Likely pathogenic
+VCV000037636,NM_007294.4(BRCA1):c.5096G>A (p.Arg1699Gln),BRCA1,R,1699,Q,pathogenic,Pathogenic
+VCV000055396,NM_007294.4(BRCA1):c.5095C>T (p.Arg1699Trp),BRCA1,R,1699,W,pathogenic,Pathogenic
+VCV000867631,NM_007294.4(BRCA1):c.5090G>T (p.Cys1697Phe),BRCA1,C,1697,F,pathogenic,Likely pathogenic
+VCV000037635,NM_007294.4(BRCA1):c.5090G>A (p.Cys1697Tyr),BRCA1,C,1697,Y,pathogenic,Likely pathogenic
+VCV000055392,NM_007294.4(BRCA1):c.5089T>C (p.Cys1697Arg),BRCA1,C,1697,R,pathogenic,Pathogenic
+VCV000869009,NM_007294.4(BRCA1):c.5083T>G (p.Phe1695Val),BRCA1,F,1695,V,pathogenic,Pathogenic
+VCV000055383,NM_007294.4(BRCA1):c.5075A>T (p.Asp1692Val),BRCA1,D,1692,V,pathogenic,Likely pathogenic
+VCV000055376,NM_007294.4(BRCA1):c.5074G>T (p.Asp1692Tyr),BRCA1,D,1692,Y,pathogenic,Pathogenic
+VCV000037633,NM_007294.4(BRCA1):c.5074G>C (p.Asp1692His),BRCA1,D,1692,H,pathogenic,Pathogenic
+VCV000037632,NM_007294.4(BRCA1):c.5074G>A (p.Asp1692Asn),BRCA1,D,1692,N,pathogenic,Pathogenic
+VCV000055373,NM_007294.4(BRCA1):c.5072C>G (p.Thr1691Arg),BRCA1,T,1691,R,pathogenic,Likely pathogenic
+VCV000037628,NM_007294.4(BRCA1):c.5072C>T (p.Thr1691Ile),BRCA1,T,1691,I,pathogenic,Pathogenic/Likely pathogenic
+VCV000037627,NM_007294.4(BRCA1):c.5072C>A (p.Thr1691Lys),BRCA1,T,1691,K,pathogenic,Pathogenic/Likely pathogenic
+VCV000864899,NM_007294.4(BRCA1):c.5066T>A (p.Met1689Lys),BRCA1,M,1689,K,pathogenic,Likely pathogenic
+VCV000037625,NM_007294.4(BRCA1):c.5066T>G (p.Met1689Arg),BRCA1,M,1689,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000868976,NM_007294.4(BRCA1):c.5062G>T (p.Val1688Phe),BRCA1,V,1688,F,pathogenic,Likely pathogenic
+VCV000433721,NM_007294.4(BRCA1):c.5060T>G (p.Val1687Gly),BRCA1,V,1687,G,pathogenic,Likely pathogenic
+VCV000055366,NM_007294.4(BRCA1):c.5058T>A (p.His1686Gln),BRCA1,H,1686,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000183179,NM_007294.4(BRCA1):c.5057A>G (p.His1686Arg),BRCA1,H,1686,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000867583,NM_007294.4(BRCA1):c.5056C>G (p.His1686Asp),BRCA1,H,1686,D,pathogenic,Likely pathogenic
+VCV000531444,NM_007294.4(BRCA1):c.5056C>T (p.His1686Tyr),BRCA1,H,1686,Y,pathogenic,Likely pathogenic
+VCV000055365,NM_007294.4(BRCA1):c.5054C>T (p.Thr1685Ile),BRCA1,T,1685,I,pathogenic,Pathogenic
+VCV000055364,NM_007294.4(BRCA1):c.5053A>G (p.Thr1685Ala),BRCA1,T,1685,A,pathogenic,Pathogenic
+VCV000055362,NM_007294.4(BRCA1):c.5045A>T (p.Glu1682Val),BRCA1,E,1682,V,pathogenic,Likely pathogenic
+VCV000868096,NM_007294.4(BRCA1):c.4988T>G (p.Met1663Arg),BRCA1,M,1663,R,pathogenic,Likely pathogenic
+VCV000055333,NM_007294.4(BRCA1):c.4964C>T (p.Ser1655Phe),BRCA1,S,1655,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000373826,NM_007294.4(BRCA1):c.4963T>C (p.Ser1655Pro),BRCA1,S,1655,P,pathogenic,Likely pathogenic
+VCV000868875,NM_007294.4(BRCA1):c.4958T>A (p.Val1653Glu),BRCA1,V,1653,E,pathogenic,Likely pathogenic
+VCV000037614,NM_007294.4(BRCA1):c.4868C>G (p.Ala1623Gly),BRCA1,A,1623,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000037605,NM_007294.4(BRCA1):c.4675G>C (p.Glu1559Gln),BRCA1,E,1559,Q,pathogenic,Pathogenic/Likely pathogenic
+VCV000037604,NM_007294.4(BRCA1):c.4675G>A (p.Glu1559Lys),BRCA1,E,1559,K,pathogenic,Pathogenic
+VCV000245697,NM_007294.4(BRCA1):c.4484G>C (p.Arg1495Thr),BRCA1,R,1495,T,pathogenic,Pathogenic
+VCV000037598,NM_007294.4(BRCA1):c.4484G>T (p.Arg1495Met),BRCA1,R,1495,M,pathogenic,Pathogenic
+VCV000037597,NM_007294.4(BRCA1):c.4484G>A (p.Arg1495Lys),BRCA1,R,1495,K,pathogenic,Pathogenic
+VCV002687847,NM_007294.4(BRCA1):c.4321G>A (p.Asp1441Asn),BRCA1,D,1441,N,pathogenic,Likely pathogenic
+VCV000055147,NM_007294.4(BRCA1):c.4232T>C (p.Met1411Thr),BRCA1,M,1411,T,pathogenic,Likely pathogenic
+VCV000694279,NM_007294.4(BRCA1):c.4224G>C (p.Gln1408His),BRCA1,Q,1408,H,pathogenic,Likely pathogenic
+VCV000232793,NM_007294.4(BRCA1):c.4185G>C (p.Gln1395His),BRCA1,Q,1395,H,pathogenic,Likely pathogenic
+VCV002445397,NM_007294.4(BRCA1):c.953A>T (p.His318Leu),BRCA1,H,318,L,pathogenic,Likely pathogenic
+VCV000868827,NM_007294.4(BRCA1):c.287A>T (p.Asp96Val),BRCA1,D,96,V,pathogenic,Pathogenic/Likely pathogenic
+VCV000868826,NM_007294.4(BRCA1):c.287A>C (p.Asp96Ala),BRCA1,D,96,A,pathogenic,Likely pathogenic
+VCV000220258,NM_007294.4(BRCA1):c.287A>G (p.Asp96Gly),BRCA1,D,96,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000054704,NM_007294.4(BRCA1):c.286G>A (p.Asp96Asn),BRCA1,D,96,N,pathogenic,Likely pathogenic
+VCV000868350,NM_007294.4(BRCA1):c.284T>C (p.Leu95Pro),BRCA1,L,95,P,pathogenic,Likely pathogenic
+VCV000267512,NM_007294.4(BRCA1):c.212G>C (p.Arg71Thr),BRCA1,R,71,T,pathogenic,Pathogenic/Likely pathogenic
+VCV000185705,NM_007294.4(BRCA1):c.212G>T (p.Arg71Met),BRCA1,R,71,M,pathogenic,Pathogenic/Likely pathogenic
+VCV000054471,NM_007294.4(BRCA1):c.212G>A (p.Arg71Lys),BRCA1,R,71,K,pathogenic,Pathogenic
+VCV000867340,NM_007294.4(BRCA1):c.211A>T (p.Arg71Trp),BRCA1,R,71,W,pathogenic,Likely pathogenic
+VCV000017693,NM_007294.4(BRCA1):c.211A>G (p.Arg71Gly),BRCA1,R,71,G,pathogenic,Pathogenic
+VCV000224427,NM_007294.4(BRCA1):c.192T>G (p.Cys64Trp),BRCA1,C,64,W,pathogenic,Pathogenic/Likely pathogenic
+VCV000462571,NM_007294.4(BRCA1):c.191G>C (p.Cys64Ser),BRCA1,C,64,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000054400,NM_007294.4(BRCA1):c.191G>A (p.Cys64Tyr),BRCA1,C,64,Y,pathogenic,Pathogenic
+VCV000867317,NM_007294.4(BRCA1):c.190T>A (p.Cys64Ser),BRCA1,C,64,S,pathogenic,Likely pathogenic
+VCV000054394,NM_007294.4(BRCA1):c.190T>C (p.Cys64Arg),BRCA1,C,64,R,pathogenic,Pathogenic
+VCV000017660,NM_007294.4(BRCA1):c.190T>G (p.Cys64Gly),BRCA1,C,64,G,pathogenic,Pathogenic
+VCV000054364,NM_007294.4(BRCA1):c.182G>A (p.Cys61Tyr),BRCA1,C,61,Y,pathogenic,Pathogenic
+VCV000054360,NM_007294.4(BRCA1):c.181T>C (p.Cys61Arg),BRCA1,C,61,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000054359,NM_007294.4(BRCA1):c.181T>A (p.Cys61Ser),BRCA1,C,61,S,pathogenic,Pathogenic
+VCV000017661,NM_007294.4(BRCA1):c.181T>G (p.Cys61Gly),BRCA1,C,61,G,pathogenic,Pathogenic
+VCV000054247,NM_007294.4(BRCA1):c.140G>T (p.Cys47Phe),BRCA1,C,47,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000054246,NM_007294.4(BRCA1):c.140G>A (p.Cys47Tyr),BRCA1,C,47,Y,pathogenic,Pathogenic
+VCV000651975,NM_007294.4(BRCA1):c.139T>C (p.Cys47Arg),BRCA1,C,47,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000267508,NM_007294.4(BRCA1):c.139T>A (p.Cys47Ser),BRCA1,C,47,S,pathogenic,Pathogenic
+VCV000054242,NM_007294.4(BRCA1):c.139T>G (p.Cys47Gly),BRCA1,C,47,G,pathogenic,Likely pathogenic
+VCV000647970,NM_007294.4(BRCA1):c.132C>G (p.Cys44Trp),BRCA1,C,44,W,pathogenic,Likely pathogenic
+VCV000868170,NM_007294.4(BRCA1):c.131G>C (p.Cys44Ser),BRCA1,C,44,S,pathogenic,Pathogenic
+VCV000054200,NM_007294.4(BRCA1):c.131G>T (p.Cys44Phe),BRCA1,C,44,F,pathogenic,Pathogenic
+VCV000054199,NM_007294.4(BRCA1):c.131G>A (p.Cys44Tyr),BRCA1,C,44,Y,pathogenic,Pathogenic
+VCV000054192,NM_007294.4(BRCA1):c.130T>C (p.Cys44Arg),BRCA1,C,44,R,pathogenic,Pathogenic
+VCV000054191,NM_007294.4(BRCA1):c.130T>A (p.Cys44Ser),BRCA1,C,44,S,pathogenic,Pathogenic
+VCV000230862,NM_007294.4(BRCA1):c.122A>T (p.His41Leu),BRCA1,H,41,L,pathogenic,Likely pathogenic
+VCV000054166,NM_007294.4(BRCA1):c.122A>G (p.His41Arg),BRCA1,H,41,R,pathogenic,Pathogenic
+VCV000868161,NM_007294.4(BRCA1):c.121C>G (p.His41Asp),BRCA1,H,41,D,pathogenic,Likely pathogenic
+VCV000580736,NM_007294.4(BRCA1):c.121C>T (p.His41Tyr),BRCA1,H,41,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000409353,NM_007294.4(BRCA1):c.121C>A (p.His41Asn),BRCA1,H,41,N,pathogenic,Likely pathogenic
+VCV000267497,NM_007294.4(BRCA1):c.117T>G (p.Cys39Trp),BRCA1,C,39,W,pathogenic,Pathogenic
+VCV000037393,NM_007294.4(BRCA1):c.116G>T (p.Cys39Phe),BRCA1,C,39,F,pathogenic,Pathogenic/Likely pathogenic
+VCV000037392,NM_007294.4(BRCA1):c.116G>A (p.Cys39Tyr),BRCA1,C,39,Y,pathogenic,Pathogenic/Likely pathogenic
+VCV000054153,NM_007294.4(BRCA1):c.115T>G (p.Cys39Gly),BRCA1,C,39,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000054152,NM_007294.4(BRCA1):c.115T>C (p.Cys39Arg),BRCA1,C,39,R,pathogenic,Pathogenic
+VCV000054151,NM_007294.4(BRCA1):c.115T>A (p.Cys39Ser),BRCA1,C,39,S,pathogenic,Pathogenic/Likely pathogenic
+VCV000054132,NM_007294.4(BRCA1):c.110C>G (p.Thr37Arg),BRCA1,T,37,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000054131,NM_007294.4(BRCA1):c.110C>A (p.Thr37Lys),BRCA1,T,37,K,pathogenic,Pathogenic
+VCV000868146,NM_007294.4(BRCA1):c.109A>G (p.Thr37Ala),BRCA1,T,37,A,pathogenic,Likely pathogenic
+VCV000867804,NM_007294.4(BRCA1):c.104T>C (p.Val35Ala),BRCA1,V,35,A,pathogenic,Likely pathogenic
+VCV000867486,NM_007294.4(BRCA1):c.101C>G (p.Pro34Arg),BRCA1,P,34,R,pathogenic,Likely pathogenic
+VCV000186913,NM_007294.4(BRCA1):c.101C>T (p.Pro34Leu),BRCA1,P,34,L,pathogenic,Likely pathogenic
+VCV000418671,NM_007294.4(BRCA1):c.100C>T (p.Pro34Ser),BRCA1,P,34,S,pathogenic,Likely pathogenic
+VCV000867463,NM_007294.4(BRCA1):c.81T>G (p.Cys27Trp),BRCA1,C,27,W,pathogenic,Likely pathogenic
+VCV000827453,NM_007294.4(BRCA1):c.80G>A (p.Cys27Tyr),BRCA1,C,27,Y,pathogenic,Likely pathogenic
+VCV000481469,NM_007294.4(BRCA1):c.80G>T (p.Cys27Phe),BRCA1,C,27,F,pathogenic,Likely pathogenic
+VCV000867751,NM_007294.4(BRCA1):c.79T>G (p.Cys27Gly),BRCA1,C,27,G,pathogenic,Likely pathogenic
+VCV000867750,NM_007294.4(BRCA1):c.79T>C (p.Cys27Arg),BRCA1,C,27,R,pathogenic,Likely pathogenic
+VCV000252890,NM_007294.4(BRCA1):c.77T>A (p.Ile26Asn),BRCA1,I,26,N,pathogenic,Pathogenic
+VCV000232955,NM_007294.4(BRCA1):c.74C>T (p.Pro25Leu),BRCA1,P,25,L,pathogenic,Likely pathogenic
+VCV000652430,NM_007294.4(BRCA1):c.72T>G (p.Cys24Trp),BRCA1,C,24,W,pathogenic,Pathogenic
+VCV000868780,NM_007294.4(BRCA1):c.71G>C (p.Cys24Ser),BRCA1,C,24,S,pathogenic,Likely pathogenic
+VCV000055678,NM_007294.4(BRCA1):c.71G>A (p.Cys24Tyr),BRCA1,C,24,Y,pathogenic,Likely pathogenic
+VCV000649351,NM_007294.4(BRCA1):c.70T>G (p.Cys24Gly),BRCA1,C,24,G,pathogenic,Pathogenic/Likely pathogenic
+VCV000638952,NM_007294.4(BRCA1):c.70T>A (p.Cys24Ser),BRCA1,C,24,S,pathogenic,Likely pathogenic
+VCV000055674,NM_007294.4(BRCA1):c.70T>C (p.Cys24Arg),BRCA1,C,24,R,pathogenic,Pathogenic/Likely pathogenic
+VCV000055656,NM_007294.4(BRCA1):c.65T>C (p.Leu22Ser),BRCA1,L,22,S,pathogenic,Pathogenic
+VCV000867727,NM_007294.4(BRCA1):c.56A>C (p.Gln19Pro),BRCA1,Q,19,P,pathogenic,Likely pathogenic
+VCV000531241,NM_007294.4(BRCA1):c.53T>G (p.Met18Arg),BRCA1,M,18,R,pathogenic,Likely pathogenic
+VCV000055559,NM_007294.4(BRCA1):c.53T>A (p.Met18Lys),BRCA1,M,18,K,pathogenic,Pathogenic/Likely pathogenic
+VCV000037664,NM_007294.4(BRCA1):c.53T>C (p.Met18Thr),BRCA1,M,18,T,pathogenic,Pathogenic
+VCV000245973,NM_007294.4(BRCA1):c.32T>G (p.Val11Gly),BRCA1,V,11,G,pathogenic,Likely pathogenic
+VCV000431194,NM_007294.4(BRCA1):c.3G>A (p.Met1Ile),BRCA1,M,1,I,pathogenic,Pathogenic/Likely pathogenic
+VCV000267523,NM_007294.4(BRCA1):c.3G>C (p.Met1Ile),BRCA1,M,1,I,pathogenic,Pathogenic
+VCV000055072,NM_007294.4(BRCA1):c.3G>T (p.Met1Ile),BRCA1,M,1,I,pathogenic,Pathogenic
+VCV000801069,NM_007294.4(BRCA1):c.2T>A (p.Met1Lys),BRCA1,M,1,K,pathogenic,Pathogenic
+VCV000054746,NM_007294.4(BRCA1):c.2T>G (p.Met1Arg),BRCA1,M,1,R,pathogenic,Pathogenic
+VCV000054745,NM_007294.4(BRCA1):c.2T>C (p.Met1Thr),BRCA1,M,1,T,pathogenic,Pathogenic
+VCV000054432,NM_007294.4(BRCA1):c.1A>G (p.Met1Val),BRCA1,M,1,V,pathogenic,Pathogenic/Likely pathogenic
+VCV000055637,NM_007294.4(BRCA1):c.5585A>T (p.His1862Leu),BRCA1,H,1862,L,benign,Benign/Likely benign
+VCV000041833,NM_007294.4(BRCA1):c.5579A>C (p.His1860Pro),BRCA1,H,1860,P,benign,Benign
+VCV000055634,NM_007294.4(BRCA1):c.5576C>G (p.Pro1859Arg),BRCA1,P,1859,R,benign,Benign
+VCV000183951,NM_007294.4(BRCA1):c.5572A>C (p.Ile1858Leu),BRCA1,I,1858,L,benign,Benign
+VCV000055632,NM_007294.4(BRCA1):c.5566C>T (p.Pro1856Ser),BRCA1,P,1856,S,benign,Likely benign
+VCV000869028,NM_007294.4(BRCA1):c.5545G>A (p.Glu1849Lys),BRCA1,E,1849,K,benign,Likely benign
+VCV000869023,NM_007294.4(BRCA1):c.5543A>G (p.Gln1848Arg),BRCA1,Q,1848,R,benign,Likely benign
+VCV000867639,NM_007294.4(BRCA1):c.5540G>C (p.Cys1847Ser),BRCA1,C,1847,S,benign,Likely benign
+VCV000867634,NM_007294.4(BRCA1):c.5538G>T (p.Gln1846His),BRCA1,Q,1846,H,benign,Likely benign
+VCV000864986,NM_007294.4(BRCA1):c.5537A>G (p.Gln1846Arg),BRCA1,Q,1846,R,benign,Likely benign
+VCV000055615,NM_007294.4(BRCA1):c.5531T>G (p.Leu1844Arg),BRCA1,L,1844,R,benign,Benign
+VCV000869008,NM_007294.4(BRCA1):c.5524G>C (p.Val1842Leu),BRCA1,V,1842,L,benign,Likely benign
+VCV000867597,NM_007294.4(BRCA1):c.5492C>T (p.Pro1831Leu),BRCA1,P,1831,L,benign,Likely benign
+VCV000867595,NM_007294.4(BRCA1):c.5491C>T (p.Pro1831Ser),BRCA1,P,1831,S,benign,Likely benign
+VCV000864921,NM_007294.4(BRCA1):c.5479A>T (p.Met1827Leu),BRCA1,M,1827,L,benign,Benign
+VCV000864919,NM_007294.4(BRCA1):c.5478G>C (p.Gln1826His),BRCA1,Q,1826,H,benign,Benign
+VCV000868968,NM_007294.4(BRCA1):c.5476C>G (p.Gln1826Glu),BRCA1,Q,1826,E,benign,Likely benign
+VCV000868567,NM_007294.4(BRCA1):c.5473G>C (p.Gly1825Arg),BRCA1,G,1825,R,benign,Likely benign
+VCV000867577,NM_007294.4(BRCA1):c.5471T>A (p.Ile1824Asn),BRCA1,I,1824,N,benign,Likely benign
+VCV000055585,NM_007294.4(BRCA1):c.5456A>G (p.Asn1819Ser),BRCA1,N,1819,S,benign,Benign/Likely benign
+VCV000865532,NM_007294.4(BRCA1):c.5452G>A (p.Asp1818Asn),BRCA1,D,1818,N,benign,Likely benign
+VCV000825739,NM_007294.4(BRCA1):c.5447C>G (p.Thr1816Arg),BRCA1,T,1816,R,benign,Likely benign
+VCV000868902,NM_007294.4(BRCA1):c.5446A>G (p.Thr1816Ala),BRCA1,T,1816,A,benign,Likely benign
+VCV000865516,NM_007294.4(BRCA1):c.5440G>A (p.Ala1814Thr),BRCA1,A,1814,T,benign,Likely benign
+VCV000867392,NM_007294.4(BRCA1):c.5439T>A (p.Asp1813Glu),BRCA1,D,1813,E,benign,Likely benign
+VCV000867387,NM_007294.4(BRCA1):c.5428G>T (p.Val1810Leu),BRCA1,V,1810,L,benign,Likely benign
+VCV000142988,NM_007294.4(BRCA1):c.5413C>T (p.His1805Tyr),BRCA1,H,1805,Y,benign,Likely benign
+VCV000055568,NM_007294.4(BRCA1):c.5411T>A (p.Val1804Asp),BRCA1,V,1804,D,benign,Benign
+VCV000868419,NM_007294.4(BRCA1):c.5398C>A (p.Leu1800Ile),BRCA1,L,1800,I,benign,Likely benign
+VCV000865692,NM_007294.4(BRCA1):c.5392T>A (p.Phe1798Ile),BRCA1,F,1798,I,benign,Likely benign
+VCV000868042,NM_007294.4(BRCA1):c.5384T>G (p.Leu1795Arg),BRCA1,L,1795,R,benign,Likely benign
+VCV000865399,NM_007294.4(BRCA1):c.5379G>C (p.Lys1793Asn),BRCA1,K,1793,N,benign,Likely benign
+VCV000865370,NM_007294.4(BRCA1):c.5347A>T (p.Met1783Leu),BRCA1,M,1783,L,benign,Benign
+VCV000865637,NM_007294.4(BRCA1):c.5337A>C (p.Gln1779His),BRCA1,Q,1779,H,benign,Likely benign
+VCV000867299,NM_007294.4(BRCA1):c.5271C>G (p.Asp1757Glu),BRCA1,D,1757,E,benign,Likely benign
+VCV000441431,NM_007294.4(BRCA1):c.5269G>T (p.Asp1757Tyr),BRCA1,D,1757,Y,benign,Likely benign
+VCV000055481,NM_007294.4(BRCA1):c.5252G>A (p.Arg1751Gln),BRCA1,R,1751,Q,benign,Benign
+VCV000232831,NM_007294.4(BRCA1):c.5245C>A (p.Pro1749Thr),BRCA1,P,1749,T,benign,Likely benign
+VCV000479223,NM_007294.4(BRCA1):c.5215G>A (p.Asp1739Asn),BRCA1,D,1739,N,benign,Likely benign
+VCV000868184,NM_007294.4(BRCA1):c.5209A>G (p.Arg1737Gly),BRCA1,R,1737,G,benign,Likely benign
+VCV000055453,NM_007294.4(BRCA1):c.5198A>G (p.Asp1733Gly),BRCA1,D,1733,G,benign,Benign
+VCV000867501,NM_007294.4(BRCA1):c.5194C>G (p.His1732Asp),BRCA1,H,1732,D,benign,Likely benign
+VCV000867457,NM_007294.4(BRCA1):c.5190T>G (p.Asn1730Lys),BRCA1,N,1730,K,benign,Likely benign
+VCV000531248,NM_007294.4(BRCA1):c.5168T>C (p.Ile1723Thr),BRCA1,I,1723,T,benign,Likely benign
+VCV000868763,NM_007294.4(BRCA1):c.5163G>T (p.Gln1721His),BRCA1,Q,1721,H,benign,Likely benign
+VCV000055438,NM_007294.4(BRCA1):c.5158A>G (p.Thr1720Ala),BRCA1,T,1720,A,benign,Benign
+VCV000864997,NM_007294.4(BRCA1):c.5133A>C (p.Lys1711Asn),BRCA1,K,1711,N,benign,Likely benign
+VCV000055406,NM_007294.4(BRCA1):c.5117G>C (p.Gly1706Ala),BRCA1,G,1706,A,benign,Benign
+VCV000868577,NM_007294.4(BRCA1):c.5060T>C (p.Val1687Ala),BRCA1,V,1687,A,benign,Likely benign
+VCV000868573,NM_007294.4(BRCA1):c.5059G>A (p.Val1687Ile),BRCA1,V,1687,I,benign,Likely benign
+VCV000485376,NM_007294.4(BRCA1):c.5050A>G (p.Thr1684Ala),BRCA1,T,1684,A,benign,Likely benign
+VCV000055361,NM_007294.4(BRCA1):c.5044G>A (p.Glu1682Lys),BRCA1,E,1682,K,benign,Benign
+VCV000868956,NM_007294.4(BRCA1):c.5041A>G (p.Thr1681Ala),BRCA1,T,1681,A,benign,Likely benign
+VCV000868943,NM_007294.4(BRCA1):c.5030C>G (p.Thr1677Ser),BRCA1,T,1677,S,benign,Likely benign
+VCV000868942,NM_007294.4(BRCA1):c.5030C>A (p.Thr1677Asn),BRCA1,T,1677,N,benign,Likely benign
+VCV000240811,NM_007294.4(BRCA1):c.5024C>T (p.Thr1675Ile),BRCA1,T,1675,I,benign,Benign
+VCV000867544,NM_007294.4(BRCA1):c.5020A>G (p.Ile1674Val),BRCA1,I,1674,V,benign,Likely benign
+VCV000865537,NM_007294.4(BRCA1):c.5017C>T (p.His1673Tyr),BRCA1,H,1673,Y,benign,Likely benign
+VCV000865536,NM_007294.4(BRCA1):c.5017C>G (p.His1673Asp),BRCA1,H,1673,D,benign,Likely benign
+VCV000868515,NM_007294.4(BRCA1):c.5002T>G (p.Phe1668Val),BRCA1,F,1668,V,benign,Likely benign
+VCV000868102,NM_007294.4(BRCA1):c.5000A>C (p.Lys1667Thr),BRCA1,K,1667,T,benign,Likely benign
+VCV000865512,NM_007294.4(BRCA1):c.4996T>A (p.Tyr1666Asn),BRCA1,Y,1666,N,benign,Likely benign
+VCV000825350,NM_007294.4(BRCA1):c.4994T>G (p.Val1665Gly),BRCA1,V,1665,G,benign,Likely benign
+VCV000037621,NM_007294.4(BRCA1):c.4991T>C (p.Leu1664Pro),BRCA1,L,1664,P,benign,Benign
+VCV000055339,NM_007294.4(BRCA1):c.4985T>C (p.Phe1662Ser),BRCA1,F,1662,S,benign,Benign
+VCV000865466,NM_007294.4(BRCA1):c.4961T>C (p.Val1654Ala),BRCA1,V,1654,A,benign,Likely benign
+VCV000868876,NM_007294.4(BRCA1):c.4958T>C (p.Val1653Ala),BRCA1,V,1653,A,benign,Likely benign
+VCV000041830,NM_007294.4(BRCA1):c.4956G>A (p.Met1652Ile),BRCA1,M,1652,I,benign,Benign
+VCV000037615,NM_007294.4(BRCA1):c.4955T>C (p.Met1652Thr),BRCA1,M,1652,T,benign,Benign
+VCV000868434,NM_007294.4(BRCA1):c.4943A>G (p.Lys1648Arg),BRCA1,K,1648,R,benign,Likely benign
+VCV000868433,NM_007294.4(BRCA1):c.4943A>C (p.Lys1648Thr),BRCA1,K,1648,T,benign,Likely benign
+VCV000865710,NM_007294.4(BRCA1):c.4941C>G (p.Asn1647Lys),BRCA1,N,1647,K,benign,Benign
+VCV000865439,NM_007294.4(BRCA1):c.4939A>G (p.Asn1647Asp),BRCA1,N,1647,D,benign,Benign
+VCV000868862,NM_007294.4(BRCA1):c.4937T>A (p.Val1646Asp),BRCA1,V,1646,D,benign,Likely benign
+VCV000868861,NM_007294.4(BRCA1):c.4936G>T (p.Val1646Phe),BRCA1,V,1646,F,benign,Likely benign
+VCV000868859,NM_007294.4(BRCA1):c.4936G>A (p.Val1646Ile),BRCA1,V,1646,I,benign,Likely benign
+VCV000825302,NM_007294.4(BRCA1):c.4930G>C (p.Glu1644Gln),BRCA1,E,1644,Q,benign,Likely benign
+VCV000865426,NM_007294.4(BRCA1):c.4927A>T (p.Thr1643Ser),BRCA1,T,1643,S,benign,Likely benign
+VCV000868853,NM_007294.4(BRCA1):c.4925C>T (p.Ser1642Leu),BRCA1,S,1642,L,benign,Likely benign
+VCV000868409,NM_007294.4(BRCA1):c.4921G>T (p.Ala1641Ser),BRCA1,A,1641,S,benign,Likely benign
+VCV000055316,NM_007294.4(BRCA1):c.4921G>A (p.Ala1641Thr),BRCA1,A,1641,T,benign,Likely benign
+VCV000481432,NM_007294.4(BRCA1):c.4918A>G (p.Thr1640Ala),BRCA1,T,1640,A,benign,Likely benign
+VCV000865414,NM_007294.4(BRCA1):c.4917G>C (p.Leu1639Phe),BRCA1,L,1639,F,benign,Likely benign
+VCV000868843,NM_007294.4(BRCA1):c.4913A>T (p.Glu1638Val),BRCA1,E,1638,V,benign,Benign
+VCV000055314,NM_007294.4(BRCA1):c.4910C>T (p.Pro1637Leu),BRCA1,P,1637,L,benign,Benign
+VCV000865673,NM_007294.4(BRCA1):c.4908G>T (p.Lys1636Asn),BRCA1,K,1636,N,benign,Likely benign
+VCV000868387,NM_007294.4(BRCA1):c.4902G>T (p.Arg1634Ser),BRCA1,R,1634,S,benign,Benign
+VCV000865661,NM_007294.4(BRCA1):c.4897A>G (p.Ser1633Gly),BRCA1,S,1633,G,benign,Likely benign
+VCV000868836,NM_007294.4(BRCA1):c.4892G>T (p.Ser1631Ile),BRCA1,S,1631,I,benign,Likely benign
+VCV000868376,NM_007294.4(BRCA1):c.4891A>C (p.Ser1631Arg),BRCA1,S,1631,R,benign,Likely benign
+VCV000041828,NM_007294.4(BRCA1):c.4883T>C (p.Met1628Thr),BRCA1,M,1628,T,benign,Benign
+VCV000055301,NM_007294.4(BRCA1):c.4840C>T (p.Pro1614Ser),BRCA1,P,1614,S,benign,Benign
+VCV000041827,NM_007294.4(BRCA1):c.4837A>G (p.Ser1613Gly),BRCA1,S,1613,G,benign,Benign
+VCV000037613,NM_007294.4(BRCA1):c.4837A>T (p.Ser1613Cys),BRCA1,S,1613,C,benign,Benign/Likely benign
+VCV004539182,NM_007294.4(BRCA1):c.4831G>A (p.Ala1611Thr),BRCA1,A,1611,T,benign,Likely benign
+VCV004856532,NM_007294.4(BRCA1):c.4818A>T (p.Lys1606Asn),BRCA1,K,1606,N,benign,Likely benign
+VCV000037612,NM_007294.4(BRCA1):c.4816A>G (p.Lys1606Glu),BRCA1,K,1606,E,benign,Benign
+VCV003825325,NM_007294.4(BRCA1):c.4815G>C (p.Leu1605Phe),BRCA1,L,1605,F,benign,Likely benign
+VCV003481797,NM_007294.4(BRCA1):c.4804G>C (p.Val1602Leu),BRCA1,V,1602,L,benign,Likely benign
+VCV004935311,NM_007294.4(BRCA1):c.4779A>G (p.Ile1593Met),BRCA1,I,1593,M,benign,Likely benign
+VCV000055286,NM_007294.4(BRCA1):c.4777A>T (p.Ile1593Leu),BRCA1,I,1593,L,benign,Likely benign
+VCV000055284,NM_007294.4(BRCA1):c.4766G>A (p.Arg1589His),BRCA1,R,1589,H,benign,Benign/Likely benign
+VCV000055279,NM_007294.4(BRCA1):c.4750G>T (p.Ala1584Ser),BRCA1,A,1584,S,benign,Likely benign
+VCV000055272,NM_007294.4(BRCA1):c.4729T>C (p.Ser1577Pro),BRCA1,S,1577,P,benign,Benign/Likely benign
+VCV000055262,NM_007294.4(BRCA1):c.4691T>C (p.Leu1564Pro),BRCA1,L,1564,P,benign,Benign
+VCV000055259,NM_007294.4(BRCA1):c.4682C>T (p.Thr1561Ile),BRCA1,T,1561,I,benign,Benign/Likely benign
+VCV000055246,NM_007294.4(BRCA1):c.4636G>T (p.Asp1546Tyr),BRCA1,D,1546,Y,benign,Benign
+VCV000055245,NM_007294.4(BRCA1):c.4636G>A (p.Asp1546Asn),BRCA1,D,1546,N,benign,Benign
+VCV003992563,NM_007294.4(BRCA1):c.4628G>A (p.Gly1543Glu),BRCA1,G,1543,E,benign,Likely benign
+VCV000055235,NM_007294.4(BRCA1):c.4600G>A (p.Val1534Met),BRCA1,V,1534,M,benign,Benign
+VCV004539184,NM_007294.4(BRCA1):c.4556A>G (p.Asn1519Ser),BRCA1,N,1519,S,benign,Likely benign
+VCV000091632,NM_007294.4(BRCA1):c.4544G>A (p.Gly1515Glu),BRCA1,G,1515,E,benign,Likely benign
+VCV003481776,NM_007294.4(BRCA1):c.4543G>A (p.Gly1515Arg),BRCA1,G,1515,R,benign,Likely benign
+VCV000041826,NM_007294.4(BRCA1):c.4535G>T (p.Ser1512Ile),BRCA1,S,1512,I,benign,Benign
+VCV000041825,NM_007294.4(BRCA1):c.4520G>C (p.Arg1507Thr),BRCA1,R,1507,T,benign,Benign
+VCV001275856,NM_007294.4(BRCA1):c.4457G>A (p.Ser1486Asn),BRCA1,S,1486,N,benign,Likely benign
+VCV004856539,NM_007294.4(BRCA1):c.4442C>G (p.Ala1481Gly),BRCA1,A,1481,G,benign,Likely benign
+VCV000055193,NM_007294.4(BRCA1):c.4402A>C (p.Asn1468His),BRCA1,N,1468,H,benign,Benign
+VCV001325657,NM_007294.4(BRCA1):c.4333C>G (p.Pro1445Ala),BRCA1,P,1445,A,benign,Likely benign
+VCV000017676,NM_007294.4(BRCA1):c.4327C>G (p.Arg1443Gly),BRCA1,R,1443,G,benign,Benign
+VCV000055163,NM_007294.4(BRCA1):c.4294A>C (p.Ile1432Leu),BRCA1,I,1432,L,benign,Likely benign
+VCV000055154,NM_007294.4(BRCA1):c.4255G>C (p.Glu1419Gln),BRCA1,E,1419,Q,benign,Benign
+VCV000037575,NM_007294.4(BRCA1):c.4213A>G (p.Ile1405Val),BRCA1,I,1405,V,benign,Likely benign
+VCV000055140,NM_007294.4(BRCA1):c.4204C>T (p.His1402Tyr),BRCA1,H,1402,Y,benign,Benign
+VCV004856580,NM_007294.4(BRCA1):c.4168G>T (p.Asp1390Tyr),BRCA1,D,1390,Y,benign,Likely benign
+VCV000224433,NM_007294.4(BRCA1):c.4159T>C (p.Ser1387Pro),BRCA1,S,1387,P,benign,Likely benign
+VCV000055111,NM_007294.4(BRCA1):c.4132G>A (p.Val1378Ile),BRCA1,V,1378,I,benign,Benign
+VCV004856582,NM_007294.4(BRCA1):c.4119G>T (p.Glu1373Asp),BRCA1,E,1373,D,benign,Likely benign
+VCV004856544,NM_007294.4(BRCA1):c.4106C>T (p.Ala1369Val),BRCA1,A,1369,V,benign,Likely benign
+VCV004856534,NM_007294.4(BRCA1):c.3202A>T (p.Ile1068Phe),BRCA1,I,1068,F,benign,Likely benign
+VCV004856428,NM_007294.4(BRCA1):c.3191G>A (p.Ser1064Asn),BRCA1,S,1064,N,benign,Likely benign
+VCV004856585,NM_007294.4(BRCA1):c.3173T>C (p.Ile1058Thr),BRCA1,I,1058,T,benign,Likely benign
+VCV000054777,NM_007294.4(BRCA1):c.3143G>T (p.Gly1048Val),BRCA1,G,1048,V,benign,Benign
+VCV000054775,NM_007294.4(BRCA1):c.3140T>C (p.Val1047Ala),BRCA1,V,1047,A,benign,Likely benign
+VCV000037510,NM_007294.4(BRCA1):c.3130A>G (p.Ile1044Val),BRCA1,I,1044,V,benign,Benign
+VCV003226132,NM_007294.4(BRCA1):c.3128A>G (p.Asn1043Ser),BRCA1,N,1043,S,benign,Likely benign
+VCV000017670,NM_007294.4(BRCA1):c.3119G>A (p.Ser1040Asn),BRCA1,S,1040,N,benign,Benign
+VCV004856535,NM_007294.4(BRCA1):c.3116C>G (p.Ala1039Gly),BRCA1,A,1039,G,benign,Likely benign
+VCV000041815,NM_007294.4(BRCA1):c.3113A>G (p.Glu1038Gly),BRCA1,E,1038,G,benign,Benign
+VCV003600337,NM_007294.4(BRCA1):c.3110A>T (p.Lys1037Ile),BRCA1,K,1037,I,benign,Likely benign
+VCV000037507,NM_007294.4(BRCA1):c.3083G>A (p.Arg1028His),BRCA1,R,1028,H,benign,Benign
+VCV000037506,NM_007294.4(BRCA1):c.3082C>T (p.Arg1028Cys),BRCA1,R,1028,C,benign,Benign
+VCV000054765,NM_007294.4(BRCA1):c.3072C>G (p.Ser1024Arg),BRCA1,S,1024,R,benign,Likely benign
+VCV004856550,NM_007294.4(BRCA1):c.3065C>G (p.Thr1022Arg),BRCA1,T,1022,R,benign,Likely benign
+VCV001709805,NM_007294.4(BRCA1):c.3058C>T (p.Pro1020Ser),BRCA1,P,1020,S,benign,Likely benign
+VCV000433703,NM_007294.4(BRCA1):c.3037G>A (p.Glu1013Lys),BRCA1,E,1013,K,benign,Likely benign
+VCV000041814,NM_007294.4(BRCA1):c.3024G>A (p.Met1008Ile),BRCA1,M,1008,I,benign,Benign
+VCV000054755,NM_007294.4(BRCA1):c.3022A>G (p.Met1008Val),BRCA1,M,1008,V,benign,Benign
+VCV004856587,NM_007294.4(BRCA1):c.3019T>C (p.Ser1007Pro),BRCA1,S,1007,P,benign,Likely benign
+VCV004856529,NM_007294.4(BRCA1):c.3013G>A (p.Glu1005Lys),BRCA1,E,1005,K,benign,Likely benign
+VCV004856546,NM_007294.4(BRCA1):c.3000G>T (p.Glu1000Asp),BRCA1,E,1000,D,benign,Likely benign
+VCV004856547,NM_007294.4(BRCA1):c.2991T>G (p.Asn997Lys),BRCA1,N,997,K,benign,Likely benign
+VCV004856560,NM_007294.4(BRCA1):c.2960A>T (p.Lys987Met),BRCA1,K,987,M,benign,Likely benign
+VCV003730837,NM_007294.4(BRCA1):c.2947C>G (p.Leu983Val),BRCA1,L,983,V,benign,Likely benign
+VCV002683815,NM_007294.4(BRCA1):c.2941C>G (p.Pro981Ala),BRCA1,P,981,A,benign,Likely benign
+VCV000054727,NM_007294.4(BRCA1):c.2935C>T (p.Arg979Cys),BRCA1,R,979,C,benign,Likely benign
+VCV000628452,NM_007294.4(BRCA1):c.2912A>G (p.His971Arg),BRCA1,H,971,R,benign,Benign
+VCV000054714,NM_007294.4(BRCA1):c.2911C>A (p.His971Asn),BRCA1,H,971,N,benign,Likely benign
+VCV001797469,NM_007294.4(BRCA1):c.2902C>G (p.Pro968Ala),BRCA1,P,968,A,benign,Likely benign
+VCV000054711,NM_007294.4(BRCA1):c.2899A>T (p.Thr967Ser),BRCA1,T,967,S,benign,Likely benign
+VCV000054709,NM_007294.4(BRCA1):c.2884G>A (p.Glu962Lys),BRCA1,E,962,K,benign,Benign
+VCV000054708,NM_007294.4(BRCA1):c.2879G>A (p.Gly960Asp),BRCA1,G,960,D,benign,Likely benign
+VCV001796968,NM_007294.4(BRCA1):c.2861T>A (p.Leu954Gln),BRCA1,L,954,Q,benign,Likely benign
+VCV003992573,NM_007294.4(BRCA1):c.2854T>C (p.Phe952Leu),BRCA1,F,952,L,benign,Likely benign
+VCV002445711,NM_007294.4(BRCA1):c.2834G>C (p.Ser945Thr),BRCA1,S,945,T,benign,Likely benign
+VCV000233288,NM_007294.4(BRCA1):c.2798G>C (p.Gly933Ala),BRCA1,G,933,A,benign,Benign
+VCV000037489,NM_007294.4(BRCA1):c.2773A>C (p.Ile925Leu),BRCA1,I,925,L,benign,Benign
+VCV000037488,NM_007294.4(BRCA1):c.2758G>A (p.Val920Ile),BRCA1,V,920,I,benign,Benign
+VCV004856565,NM_007294.4(BRCA1):c.2755C>A (p.Pro919Thr),BRCA1,P,919,T,benign,Likely benign
+VCV000091598,NM_007294.4(BRCA1):c.2746A>T (p.Asn916Tyr),BRCA1,N,916,Y,benign,Likely benign
+VCV000037487,NM_007294.4(BRCA1):c.2735A>G (p.Lys912Arg),BRCA1,K,912,R,benign,Likely benign
+VCV004758075,NM_007294.4(BRCA1):c.2725A>G (p.Asn909Asp),BRCA1,N,909,D,benign,Likely benign
+VCV001794958,NM_007294.4(BRCA1):c.2703T>G (p.Phe901Leu),BRCA1,F,901,L,benign,Likely benign
+VCV004856501,NM_007294.4(BRCA1):c.2689C>G (p.Pro897Ala),BRCA1,P,897,A,benign,Likely benign
+VCV000054638,NM_007294.4(BRCA1):c.2675T>C (p.Leu892Ser),BRCA1,L,892,S,benign,Likely benign
+VCV000037479,NM_007294.4(BRCA1):c.2669G>T (p.Gly890Val),BRCA1,G,890,V,benign,Benign
+VCV004856449,NM_007294.4(BRCA1):c.2656T>C (p.Ser886Pro),BRCA1,S,886,P,benign,Likely benign
+VCV004856559,NM_007294.4(BRCA1):c.2645G>C (p.Cys882Ser),BRCA1,C,882,S,benign,Likely benign
+VCV004856533,NM_007294.4(BRCA1):c.2641G>C (p.Glu881Gln),BRCA1,E,881,Q,benign,Benign
+VCV004856575,NM_007294.4(BRCA1):c.2640G>C (p.Glu880Asp),BRCA1,E,880,D,benign,Likely benign
+VCV004625766,NM_007294.4(BRCA1):c.2638G>A (p.Glu880Lys),BRCA1,E,880,K,benign,Likely benign
+VCV000041812,NM_007294.4(BRCA1):c.2612C>T (p.Pro871Leu),BRCA1,P,871,L,benign,Benign
+VCV004856551,NM_007294.4(BRCA1):c.2597G>T (p.Arg866Leu),BRCA1,R,866,L,benign,Likely benign
+VCV000054613,NM_007294.4(BRCA1):c.2597G>A (p.Arg866His),BRCA1,R,866,H,benign,Benign
+VCV000041811,NM_007294.4(BRCA1):c.2596C>T (p.Arg866Cys),BRCA1,R,866,C,benign,Benign
+VCV000037476,NM_007294.4(BRCA1):c.2584A>G (p.Lys862Glu),BRCA1,K,862,E,benign,Benign
+VCV004856527,NM_007294.4(BRCA1):c.2572C>G (p.Gln858Glu),BRCA1,Q,858,E,benign,Likely benign
+VCV000054604,NM_007294.4(BRCA1):c.2566T>C (p.Tyr856His),BRCA1,Y,856,H,benign,Benign
+VCV004856577,NM_007294.4(BRCA1):c.2548A>G (p.Ser850Gly),BRCA1,S,850,G,benign,Likely benign
+VCV000091592,NM_007294.4(BRCA1):c.2525A>G (p.Glu842Gly),BRCA1,E,842,G,benign,Benign
+VCV000054591,NM_007294.4(BRCA1):c.2522G>A (p.Arg841Gln),BRCA1,R,841,Q,benign,Benign/Likely benign
+VCV000017681,NM_007294.4(BRCA1):c.2521C>T (p.Arg841Trp),BRCA1,R,841,W,benign,Benign
+VCV002445306,NM_007294.4(BRCA1):c.2515C>T (p.His839Tyr),BRCA1,H,839,Y,benign,Benign
+VCV004828051,NM_007294.4(BRCA1):c.2500G>A (p.Gly834Arg),BRCA1,G,834,R,benign,Likely benign
+VCV004842659,NM_007294.4(BRCA1):c.2495C>T (p.Pro832Leu),BRCA1,P,832,L,benign,Likely benign
+VCV004935321,NM_007294.4(BRCA1):c.2485T>C (p.Phe829Leu),BRCA1,F,829,L,benign,Likely benign
+VCV000037473,NM_007294.4(BRCA1):c.2477C>A (p.Thr826Lys),BRCA1,T,826,K,benign,Benign
+VCV000054576,NM_007294.4(BRCA1):c.2474A>T (p.Asp825Val),BRCA1,D,825,V,benign,Likely benign
+VCV004856561,NM_007294.4(BRCA1):c.2467A>G (p.Arg823Gly),BRCA1,R,823,G,benign,Likely benign
+VCV000041810,NM_007294.4(BRCA1):c.2458A>G (p.Lys820Glu),BRCA1,K,820,E,benign,Benign
+VCV000054567,NM_007294.4(BRCA1):c.2428A>T (p.Asn810Tyr),BRCA1,N,810,Y,benign,Benign
+VCV000054562,NM_007294.4(BRCA1):c.2413T>C (p.Cys805Arg),BRCA1,C,805,R,benign,Likely benign
+VCV000054561,NM_007294.4(BRCA1):c.2412G>C (p.Gln804His),BRCA1,Q,804,H,benign,Benign
+VCV003481827,NM_007294.4(BRCA1):c.2411A>T (p.Gln804Leu),BRCA1,Q,804,L,benign,Likely benign
+VCV000599042,NM_007294.4(BRCA1):c.2392C>G (p.Pro798Ala),BRCA1,P,798,A,benign,Likely benign
+VCV004856538,NM_007294.4(BRCA1):c.2391A>C (p.Glu797Asp),BRCA1,E,797,D,benign,Likely benign
+VCV004856583,NM_007294.4(BRCA1):c.2385A>T (p.Lys795Asn),BRCA1,K,795,N,benign,Likely benign
+VCV004856569,NM_007294.4(BRCA1):c.2369C>T (p.Thr790Ile),BRCA1,T,790,I,benign,Likely benign
+VCV000037464,NM_007294.4(BRCA1):c.2351C>T (p.Ser784Leu),BRCA1,S,784,L,benign,Benign
+VCV000054541,NM_007294.4(BRCA1):c.2347A>G (p.Ile783Val),BRCA1,I,783,V,benign,Benign/Likely benign
+VCV000041809,NM_007294.4(BRCA1):c.2315T>C (p.Val772Ala),BRCA1,V,772,A,benign,Benign
+VCV000054522,NM_007294.4(BRCA1):c.2286A>T (p.Arg762Ser),BRCA1,R,762,S,benign,Benign
+VCV003825318,NM_007294.4(BRCA1):c.2251A>G (p.Met751Val),BRCA1,M,751,V,benign,Likely benign
+VCV000125550,NM_007294.4(BRCA1):c.2245G>C (p.Asp749His),BRCA1,D,749,H,benign,Likely benign
+VCV002683814,NM_007294.4(BRCA1):c.2237A>T (p.Asp746Val),BRCA1,D,746,V,benign,Likely benign
+VCV000187051,NM_007294.4(BRCA1):c.2230G>A (p.Ala744Thr),BRCA1,A,744,T,benign,Likely benign
+VCV000481433,NM_007294.4(BRCA1):c.2207A>G (p.Glu736Gly),BRCA1,E,736,G,benign,Likely benign
+VCV000037455,NM_007294.4(BRCA1):c.2207A>C (p.Glu736Ala),BRCA1,E,736,A,benign,Benign/Likely benign
+VCV004856589,NM_007294.4(BRCA1):c.2202A>C (p.Lys734Asn),BRCA1,K,734,N,benign,Likely benign
+VCV000054486,NM_007294.4(BRCA1):c.2180C>T (p.Pro727Leu),BRCA1,P,727,L,benign,Benign
+VCV000037454,NM_007294.4(BRCA1):c.2167A>G (p.Asn723Asp),BRCA1,N,723,D,benign,Benign
+VCV000037452,NM_007294.4(BRCA1):c.2155A>G (p.Lys719Glu),BRCA1,K,719,E,benign,Benign
+VCV000054456,NM_007294.4(BRCA1):c.2083G>T (p.Asp695Tyr),BRCA1,D,695,Y,benign,Benign
+VCV003904754,NM_007294.4(BRCA1):c.2082C>G (p.Ser694Arg),BRCA1,S,694,R,benign,Likely benign
+VCV000125534,NM_007294.4(BRCA1):c.2077G>T (p.Asp693Tyr),BRCA1,D,693,Y,benign,Benign
+VCV000041808,NM_007294.4(BRCA1):c.2077G>A (p.Asp693Asn),BRCA1,D,693,N,benign,Benign
+VCV000037441,NM_007294.4(BRCA1):c.2002C>T (p.Leu668Phe),BRCA1,L,668,F,benign,Benign
+VCV001168433,NM_007294.4(BRCA1):c.1974G>A (p.Met658Ile),BRCA1,M,658,I,benign,Benign
+VCV000054418,NM_007294.4(BRCA1):c.1963T>G (p.Tyr655Asp),BRCA1,Y,655,D,benign,Likely benign
+VCV000054415,NM_007294.4(BRCA1):c.1960A>G (p.Lys654Glu),BRCA1,K,654,E,benign,Likely benign
+VCV000054403,NM_007294.4(BRCA1):c.1932T>G (p.Cys644Trp),BRCA1,C,644,W,benign,Likely benign
+VCV000054402,NM_007294.4(BRCA1):c.1927A>G (p.Ser643Gly),BRCA1,S,643,G,benign,Benign
+VCV000054401,NM_007294.4(BRCA1):c.1924G>C (p.Asp642His),BRCA1,D,642,H,benign,Benign
+VCV000054392,NM_007294.4(BRCA1):c.1901C>G (p.Pro634Arg),BRCA1,P,634,R,benign,Likely benign
+VCV000054386,NM_007294.4(BRCA1):c.1897C>A (p.Pro633Thr),BRCA1,P,633,T,benign,Likely benign
+VCV000054371,NM_007294.4(BRCA1):c.1865C>T (p.Ala622Val),BRCA1,A,622,V,benign,Benign
+VCV001049469,NM_007294.4(BRCA1):c.1850C>A (p.Thr617Asn),BRCA1,T,617,N,benign,Likely benign
+VCV000054367,NM_007294.4(BRCA1):c.1834A>G (p.Arg612Gly),BRCA1,R,612,G,benign,Benign
+VCV003256351,NM_007294.4(BRCA1):c.1803C>A (p.His601Gln),BRCA1,H,601,Q,benign,Likely benign
+VCV000054354,NM_007294.4(BRCA1):c.1800C>G (p.Ile600Met),BRCA1,I,600,M,benign,Likely benign
+VCV000041806,NM_007294.4(BRCA1):c.1789G>A (p.Glu597Lys),BRCA1,E,597,K,benign,Benign
+VCV000054329,NM_007294.4(BRCA1):c.1703C>T (p.Pro568Leu),BRCA1,P,568,L,benign,Benign
+VCV004856570,NM_007294.4(BRCA1):c.1695G>C (p.Glu565Asp),BRCA1,E,565,D,benign,Likely benign
+VCV004856541,NM_007294.4(BRCA1):c.1689G>T (p.Gln563His),BRCA1,Q,563,H,benign,Likely benign
+VCV000156488,NM_007294.4(BRCA1):c.1666A>C (p.Lys556Gln),BRCA1,K,556,Q,benign,Likely benign
+VCV000054319,NM_007294.4(BRCA1):c.1655G>T (p.Gly552Val),BRCA1,G,552,V,benign,Likely benign
+VCV000037423,NM_007294.4(BRCA1):c.1648A>C (p.Asn550His),BRCA1,N,550,H,benign,Benign
+VCV001209888,NM_007294.4(BRCA1):c.1643T>G (p.Ile548Ser),BRCA1,I,548,S,benign,Likely benign
+VCV000054310,NM_007294.4(BRCA1):c.1616C>T (p.Thr539Met),BRCA1,T,539,M,benign,Benign
+VCV004856576,NM_007294.4(BRCA1):c.1613A>G (p.Gln538Arg),BRCA1,Q,538,R,benign,Likely benign
+VCV004856528,NM_007294.4(BRCA1):c.1611C>G (p.Asn537Lys),BRCA1,N,537,K,benign,Likely benign
+VCV004684220,NM_007294.4(BRCA1):c.1585C>G (p.Pro529Ala),BRCA1,P,529,A,benign,Likely benign
+VCV000054293,NM_007294.4(BRCA1):c.1564G>A (p.Asp522Asn),BRCA1,D,522,N,benign,Likely benign
+VCV000431216,NM_007294.4(BRCA1):c.1561G>C (p.Ala521Pro),BRCA1,A,521,P,benign,Likely benign
+VCV004856572,NM_007294.4(BRCA1):c.1549T>C (p.Phe517Leu),BRCA1,F,517,L,benign,Likely benign
+VCV000037420,NM_007294.4(BRCA1):c.1534C>T (p.Leu512Phe),BRCA1,L,512,F,benign,Benign
+VCV000054278,NM_007294.4(BRCA1):c.1511G>A (p.Arg504His),BRCA1,R,504,H,benign,Benign
+VCV004856566,NM_007294.4(BRCA1):c.1509G>T (p.Lys503Asn),BRCA1,K,503,N,benign,Likely benign
+VCV004856586,NM_007294.4(BRCA1):c.1496C>A (p.Thr499Lys),BRCA1,T,499,K,benign,Likely benign
+VCV004856588,NM_007294.4(BRCA1):c.1487G>C (p.Arg496Pro),BRCA1,R,496,P,benign,Likely benign
+VCV000041805,NM_007294.4(BRCA1):c.1487G>A (p.Arg496His),BRCA1,R,496,H,benign,Benign
+VCV000037416,NM_007294.4(BRCA1):c.1486C>T (p.Arg496Cys),BRCA1,R,496,C,benign,Benign
+VCV000660456,NM_007294.4(BRCA1):c.1474A>G (p.Ile492Val),BRCA1,I,492,V,benign,Benign/Likely benign
+VCV001773294,NM_007294.4(BRCA1):c.1468C>T (p.Pro490Ser),BRCA1,P,490,S,benign,Likely benign
+VCV000054260,NM_007294.4(BRCA1):c.1458T>G (p.Phe486Leu),BRCA1,F,486,L,benign,Likely benign
+VCV000054259,NM_007294.4(BRCA1):c.1458T>A (p.Phe486Leu),BRCA1,F,486,L,benign,Benign/Likely benign
+VCV000054258,NM_007294.4(BRCA1):c.1456T>C (p.Phe486Leu),BRCA1,F,486,L,benign,Benign
+VCV004856552,NM_007294.4(BRCA1):c.1445T>C (p.Ile482Thr),BRCA1,I,482,T,benign,Likely benign
+VCV000054251,NM_007294.4(BRCA1):c.1427A>G (p.His476Arg),BRCA1,H,476,R,benign,Benign/Likely benign
+VCV000805950,NM_007294.4(BRCA1):c.1421T>C (p.Leu474Ser),BRCA1,L,474,S,benign,Likely benign
+VCV000054249,NM_007294.4(BRCA1):c.1418A>T (p.Asn473Ile),BRCA1,N,473,I,benign,Benign
+VCV000054248,NM_007294.4(BRCA1):c.1418A>G (p.Asn473Ser),BRCA1,N,473,S,benign,Benign
+VCV000054239,NM_007294.4(BRCA1):c.1393T>G (p.Tyr465Asp),BRCA1,Y,465,D,benign,Likely benign
+VCV000054228,NM_007294.4(BRCA1):c.1383T>A (p.Phe461Leu),BRCA1,F,461,L,benign,Benign
+VCV002683812,NM_007294.4(BRCA1):c.1374C>G (p.Asp458Glu),BRCA1,D,458,E,benign,Likely benign
+VCV003903873,NM_007294.4(BRCA1):c.1316C>T (p.Ala439Val),BRCA1,A,439,V,benign,Likely benign
+VCV004056259,NM_007294.4(BRCA1):c.1285A>G (p.Ile429Val),BRCA1,I,429,V,benign,Likely benign
+VCV004856579,NM_007294.4(BRCA1):c.1268C>G (p.Ser423Cys),BRCA1,S,423,C,benign,Likely benign
+VCV000054179,NM_007294.4(BRCA1):c.1261G>A (p.Glu421Lys),BRCA1,E,421,K,benign,Likely benign
+VCV001050740,NM_007294.4(BRCA1):c.1240G>T (p.Asp414Tyr),BRCA1,D,414,Y,benign,Likely benign
+VCV000479198,NM_007294.4(BRCA1):c.1237T>G (p.Leu413Val),BRCA1,L,413,V,benign,Likely benign
+VCV000041804,NM_007294.4(BRCA1):c.1233T>G (p.Asp411Glu),BRCA1,D,411,E,benign,Benign
+VCV000054163,NM_007294.4(BRCA1):c.1208C>T (p.Ser403Phe),BRCA1,S,403,F,benign,Likely benign
+VCV004856523,NM_007294.4(BRCA1):c.1178T>C (p.Leu393Ser),BRCA1,L,393,S,benign,Likely benign
+VCV004856549,NM_007294.4(BRCA1):c.1171G>C (p.Glu391Gln),BRCA1,E,391,Q,benign,Likely benign
+VCV003338486,NM_007294.4(BRCA1):c.1169A>G (p.Asp390Gly),BRCA1,D,390,G,benign,Likely benign
+VCV000231852,NM_007294.4(BRCA1):c.1159T>A (p.Ser387Thr),BRCA1,S,387,T,benign,Benign
+VCV004856531,NM_007294.4(BRCA1):c.1138C>A (p.Gln380Lys),BRCA1,Q,380,K,benign,Likely benign
+VCV000054143,NM_007294.4(BRCA1):c.1137T>G (p.Ile379Met),BRCA1,I,379,M,benign,Benign/Likely benign
+VCV000054142,NM_007294.4(BRCA1):c.1130G>A (p.Ser377Asn),BRCA1,S,377,N,benign,Likely benign
+VCV000054139,NM_007294.4(BRCA1):c.1127A>G (p.Asn376Ser),BRCA1,N,376,S,benign,Likely benign
+VCV004856562,NM_007294.4(BRCA1):c.1116G>C (p.Trp372Cys),BRCA1,W,372,C,benign,Likely benign
+VCV004856568,NM_007294.4(BRCA1):c.1111C>T (p.Pro371Ser),BRCA1,P,371,S,benign,Likely benign
+VCV000037390,NM_007294.4(BRCA1):c.1105G>A (p.Asp369Asn),BRCA1,D,369,N,benign,Benign
+VCV004856543,NM_007294.4(BRCA1):c.1104A>T (p.Glu368Asp),BRCA1,E,368,D,benign,Likely benign
+VCV002691999,NM_007294.4(BRCA1):c.1100C>G (p.Thr367Ser),BRCA1,T,367,S,benign,Likely benign
+VCV003481900,NM_007294.4(BRCA1):c.1088A>G (p.Asn363Ser),BRCA1,N,363,S,benign,Likely benign
+VCV004215103,NM_007294.4(BRCA1):c.1086G>C (p.Glu362Asp),BRCA1,E,362,D,benign,Likely benign
+VCV001784220,NM_007294.4(BRCA1):c.1073T>C (p.Leu358Pro),BRCA1,L,358,P,benign,Likely benign
+VCV000041803,NM_007294.4(BRCA1):c.1067A>G (p.Gln356Arg),BRCA1,Q,356,R,benign,Benign
+VCV000054112,NM_007294.4(BRCA1):c.1064A>G (p.Lys355Arg),BRCA1,K,355,R,benign,Likely benign
+VCV000037389,NM_007294.4(BRCA1):c.1036C>T (p.Pro346Ser),BRCA1,P,346,S,benign,Benign
+VCV004856525,NM_007294.4(BRCA1):c.1035T>A (p.Asp345Glu),BRCA1,D,345,E,benign,Likely benign
+VCV004856540,NM_007294.4(BRCA1):c.1007C>T (p.Thr336Ile),BRCA1,T,336,I,benign,Likely benign
+VCV000096893,NM_007294.4(BRCA1):c.1001C>A (p.Pro334His),BRCA1,P,334,H,benign,Likely benign
+VCV000054099,NM_007294.4(BRCA1):c.1001C>T (p.Pro334Leu),BRCA1,P,334,L,benign,Benign
+VCV000184709,NM_007294.4(BRCA1):c.997A>G (p.Thr333Ala),BRCA1,T,333,A,benign,Benign
+VCV004856563,NM_007294.4(BRCA1):c.989A>G (p.Asp330Gly),BRCA1,D,330,G,benign,Likely benign
+VCV004856548,NM_007294.4(BRCA1):c.983G>C (p.Cys328Ser),BRCA1,C,328,S,benign,Likely benign
+VCV004856574,NM_007294.4(BRCA1):c.980C>T (p.Thr327Ile),BRCA1,T,327,I,benign,Likely benign
+VCV004856571,NM_007294.4(BRCA1):c.972T>A (p.Ser324Arg),BRCA1,S,324,R,benign,Likely benign
+VCV004625758,NM_007294.4(BRCA1):c.954T>G (p.His318Gln),BRCA1,H,318,Q,benign,Benign/Likely benign
+VCV000037709,NM_007294.4(BRCA1):c.946A>G (p.Ser316Gly),BRCA1,S,316,G,benign,Benign
+VCV004856536,NM_007294.4(BRCA1):c.940G>A (p.Ala314Thr),BRCA1,A,314,T,benign,Likely benign
+VCV004856537,NM_007294.4(BRCA1):c.924C>A (p.Ser308Arg),BRCA1,S,308,R,benign,Likely benign
+VCV001049569,NM_007294.4(BRCA1):c.901A>C (p.Lys301Gln),BRCA1,K,301,Q,benign,Likely benign
+VCV004856526,NM_007294.4(BRCA1):c.895G>T (p.Val299Leu),BRCA1,V,299,L,benign,Benign
+VCV000812549,NM_007294.4(BRCA1):c.891G>T (p.Met297Ile),BRCA1,M,297,I,benign,Benign
+VCV000055743,NM_007294.4(BRCA1):c.891G>A (p.Met297Ile),BRCA1,M,297,I,benign,Benign
+VCV004856558,NM_007294.4(BRCA1):c.864C>A (p.Ser288Arg),BRCA1,S,288,R,benign,Likely benign
+VCV000055731,NM_007294.4(BRCA1):c.839C>G (p.Ala280Gly),BRCA1,A,280,G,benign,Benign
+VCV000037706,NM_007294.4(BRCA1):c.827C>G (p.Thr276Arg),BRCA1,T,276,R,benign,Benign
+VCV000055726,NM_007294.4(BRCA1):c.824G>A (p.Gly275Asp),BRCA1,G,275,D,benign,Benign
+VCV000055725,NM_007294.4(BRCA1):c.823G>A (p.Gly275Ser),BRCA1,G,275,S,benign,Benign
+VCV000055720,NM_007294.4(BRCA1):c.811G>A (p.Val271Met),BRCA1,V,271,M,benign,Benign
+VCV004856440,NM_007294.4(BRCA1):c.807G>T (p.Leu269Phe),BRCA1,L,269,F,benign,Likely benign
+VCV000055703,NM_007294.4(BRCA1):c.790A>T (p.Ser264Cys),BRCA1,S,264,C,benign,Likely benign
+VCV000055700,NM_007294.4(BRCA1):c.788G>C (p.Gly263Ala),BRCA1,G,263,A,benign,Likely benign
+VCV000055699,NM_007294.4(BRCA1):c.787G>T (p.Gly263Cys),BRCA1,G,263,C,benign,Likely benign
+VCV000055687,NM_007294.4(BRCA1):c.743C>A (p.Thr248Asn),BRCA1,T,248,N,benign,Likely benign
+VCV000232600,NM_007294.4(BRCA1):c.739A>G (p.Asn247Asp),BRCA1,N,247,D,benign,Likely benign
+VCV000041835,NM_007294.4(BRCA1):c.736T>G (p.Leu246Val),BRCA1,L,246,V,benign,Benign
+VCV000055677,NM_007294.4(BRCA1):c.716A>G (p.His239Arg),BRCA1,H,239,R,benign,Benign
+VCV004856556,NM_007294.4(BRCA1):c.703A>T (p.Asn235Tyr),BRCA1,N,235,Y,benign,Likely benign
+VCV004856581,NM_007294.4(BRCA1):c.692C>A (p.Thr231Lys),BRCA1,T,231,K,benign,Likely benign
+VCV003778920,NM_007294.4(BRCA1):c.686C>A (p.Ser229Tyr),BRCA1,S,229,Y,benign,Likely benign
+VCV004876134,NM_007294.4(BRCA1):c.661G>A (p.Ala221Thr),BRCA1,A,221,T,benign,Likely benign
+VCV001684697,NM_007294.4(BRCA1):c.652T>G (p.Leu218Val),BRCA1,L,218,V,benign,Benign
+VCV000037689,NM_007294.4(BRCA1):c.641A>G (p.Asp214Gly),BRCA1,D,214,G,benign,Benign
+VCV000037684,NM_007294.4(BRCA1):c.571G>A (p.Val191Ile),BRCA1,V,191,I,benign,Benign
+VCV000055635,NM_007294.4(BRCA1):c.557C>A (p.Ser186Tyr),BRCA1,S,186,Y,benign,Benign
+VCV001687140,NM_007294.4(BRCA1):c.536A>T (p.Tyr179Phe),BRCA1,Y,179,F,benign,Likely benign
+VCV000037661,NM_007294.4(BRCA1):c.536A>G (p.Tyr179Cys),BRCA1,Y,179,C,benign,Benign
+VCV000431182,NM_007294.4(BRCA1):c.511A>G (p.Ile171Val),BRCA1,I,171,V,benign,Likely benign
+VCV000055393,NM_007294.4(BRCA1):c.508C>T (p.Arg170Trp),BRCA1,R,170,W,benign,Benign
+VCV004856490,NM_007294.4(BRCA1):c.507G>C (p.Gln169His),BRCA1,Q,169,H,benign,Likely benign
+VCV000055247,NM_007294.4(BRCA1):c.463C>G (p.Gln155Glu),BRCA1,Q,155,E,benign,Benign
+VCV000220023,NM_007294.4(BRCA1):c.441G>C (p.Leu147Phe),BRCA1,L,147,F,benign,Likely benign
+VCV000037580,NM_007294.4(BRCA1):c.427G>A (p.Glu143Lys),BRCA1,E,143,K,benign,Benign
+VCV000041823,NM_007294.4(BRCA1):c.425C>A (p.Pro142His),BRCA1,P,142,H,benign,Benign
+VCV001738154,NM_007294.4(BRCA1):c.413T>G (p.Leu138Arg),BRCA1,L,138,R,benign,Likely benign
+VCV000055067,NM_007294.4(BRCA1):c.397C>T (p.Arg133Cys),BRCA1,R,133,C,benign,Benign
+VCV000055064,NM_007294.4(BRCA1):c.396C>A (p.Asn132Lys),BRCA1,N,132,K,benign,Benign
+VCV000054971,NM_007294.4(BRCA1):c.370A>G (p.Ile124Val),BRCA1,I,124,V,benign,Benign
+VCV001729180,NM_007294.4(BRCA1):c.322G>T (p.Ala108Ser),BRCA1,A,108,S,benign,Likely benign
+VCV000054780,NM_007294.4(BRCA1):c.314A>G (p.Tyr105Cys),BRCA1,Y,105,C,benign,Benign
+VCV000037505,NM_007294.4(BRCA1):c.305C>G (p.Ala102Gly),BRCA1,A,102,G,benign,Benign
+VCV000865373,NM_007294.4(BRCA1):c.289A>T (p.Thr97Ser),BRCA1,T,97,S,benign,Likely benign
+VCV000868346,NM_007294.4(BRCA1):c.283C>A (p.Leu95Ile),BRCA1,L,95,I,benign,Likely benign
+VCV000821868,NM_007294.4(BRCA1):c.282G>T (p.Gln94His),BRCA1,Q,94,H,benign,Benign/Likely benign
+VCV000441388,NM_007294.4(BRCA1):c.268A>G (p.Ile90Val),BRCA1,I,90,V,benign,Likely benign
+VCV000865302,NM_007294.4(BRCA1):c.229A>G (p.Thr77Ala),BRCA1,T,77,A,benign,Likely benign
+VCV000867356,NM_007294.4(BRCA1):c.223G>A (p.Glu75Lys),BRCA1,E,75,K,benign,Likely benign
+VCV000054431,NM_007294.4(BRCA1):c.199G>T (p.Asp67Tyr),BRCA1,D,67,Y,benign,Benign
+VCV000865249,NM_007294.4(BRCA1):c.197A>G (p.Asn66Ser),BRCA1,N,66,S,benign,Likely benign
+VCV000867920,NM_007294.4(BRCA1):c.180G>C (p.Gln60His),BRCA1,Q,60,H,benign,Likely benign
+VCV000865225,NM_007294.4(BRCA1):c.175T>G (p.Ser59Ala),BRCA1,S,59,A,benign,Likely benign
+VCV000037421,NM_007294.4(BRCA1):c.154C>T (p.Leu52Phe),BRCA1,L,52,F,benign,Benign
+VCV000867272,NM_007294.4(BRCA1):c.144G>T (p.Met48Ile),BRCA1,M,48,I,benign,Likely benign
+VCV000183950,NM_007294.4(BRCA1):c.133A>C (p.Lys45Gln),BRCA1,K,45,Q,benign,Benign
+VCV000868157,NM_007294.4(BRCA1):c.119A>G (p.Asp40Gly),BRCA1,D,40,G,benign,Likely benign
+VCV000865114,NM_007294.4(BRCA1):c.99A>C (p.Glu33Asp),BRCA1,E,33,D,benign,Likely benign
+VCV000868136,NM_007294.4(BRCA1):c.97G>A (p.Glu33Lys),BRCA1,E,33,K,benign,Likely benign
+VCV000867748,NM_007294.4(BRCA1):c.78C>G (p.Ile26Met),BRCA1,I,26,M,benign,Likely benign
+VCV000868777,NM_007294.4(BRCA1):c.61A>C (p.Ile21Leu),BRCA1,I,21,L,benign,Likely benign
+VCV000865041,NM_007294.4(BRCA1):c.52A>C (p.Met18Leu),BRCA1,M,18,L,benign,Likely benign
+VCV000868725,NM_007294.4(BRCA1):c.46A>G (p.Asn16Asp),BRCA1,N,16,D,benign,Likely benign
+VCV000869092,NM_007294.4(BRCA1):c.40G>A (p.Val14Ile),BRCA1,V,14,I,benign,Likely benign
+VCV000869089,NM_007294.4(BRCA1):c.39T>A (p.Asn13Lys),BRCA1,N,13,K,benign,Likely benign
+VCV000868716,NM_007294.4(BRCA1):c.35A>T (p.Gln12Leu),BRCA1,Q,12,L,benign,Likely benign
+VCV000865020,NM_007294.4(BRCA1):c.31G>A (p.Val11Ile),BRCA1,V,11,I,benign,Likely benign
+VCV000820717,NM_007294.4(BRCA1):c.20G>T (p.Arg7Leu),BRCA1,R,7,L,benign,Likely benign
+VCV000864988,NM_007294.4(BRCA1):c.9A>C (p.Leu3Phe),BRCA1,L,3,F,benign,Likely benign
+VCV000868680,NM_007294.4(BRCA1):c.4G>A (p.Asp2Asn),BRCA1,D,2,N,benign,Likely benign
